@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>productivity &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/tag/productivity/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Magento Security Update &#8211; SUPEE-6285</title>
+		<link>http://mventory.com/articles/magento-security-update-supee-6285/</link>
+		<pubDate>Fri, 23 Oct 2015 01:25:01 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[s3cdn]]></category>
+		<category><![CDATA[security]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3228</guid>
+		<description><![CDATA[<p><a href="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285.png"><img class="alignleft size-medium wp-image-3229" src="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-460x365.png" alt="SUPEE-6285" width="460" height="365" srcset="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-460x365.png 460w, http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-640x507.png 640w, http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285.png 815w" sizes="(max-width: 460px) 100vw, 460px" /></a>Magento security update: heads up
+<p>Magento released a flurry of security &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/magento-security-update-supee-6285/">Magento Security Update &#8211; SUPEE-6285</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2><a href="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285.png"><img class="alignleft size-medium wp-image-3229" src="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-460x365.png" alt="SUPEE-6285" width="460" height="365" srcset="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-460x365.png 460w, http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-640x507.png 640w, http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285.png 815w" sizes="(max-width: 460px) 100vw, 460px" /></a>Magento security update: heads up</h2>
+<p>Magento released a flurry of security advice about the upcoming patches. The vulnerabilities are not new, but it appears there are still issued to fix.</p>
+<p>In a stark contrast with the previous practice of springing patches on the community Magento released an <a target="_blank" href="https://info2.magento.com/rs/318-XBX-392/images/SUPEE-6788-Technical%20Details.pdf?mkt_tok=3RkMMJWWfF9wsRolv6TJZKXonjHpfsX66u8qXK%2B3lMI%2F0ER3fOvrPUfGjI4CScBgI%2BSLDwEYGJlv6SgFSbHNMbhiwrgOUhM%3D">advisory about the upcoming changes</a>. The changes are quite fundamental. We expect a huge number of extensions to be affected. It&#8217;s time to act.</p>
+<h2>mVentory extensions updates</h2>
+<h4>TradeMe extension:</h4>
+<ul>
+<li>Admin tab interface</li>
+<li>Category matching interface</li>
+<li>Account authorisation</li>
+<li>Downloading CSV file</li>
+</ul>
+<h4>API / Android app:</h4>
+<ul>
+<li>Bulk edit actions</li>
+<li>Create/remove access of customer account</li>
+<li>Category matching interface</li>
+<li>Downloading files from Magento system configuration pages</li>
+</ul>
+<p>The app itself isn&#8217;t affected.</p>
+<h4>Front end editor:</h4>
+<ul>
+<li>Probably opening CMS page editor from the front end</li>
+</ul>
+<h4>S3CDN &#8211; image uploader to S3:</h4>
+<ul>
+<li>Uploading placeholders</li>
+</ul>
+<h2>Update schedule</h2>
+<p>We are working on TradeMe and API extensions right now and should have ready within 48 hours from now.</p>
+<p>The Front End Toolbar should be ready by Tue, 27 Oct.</p>
+<p>Our S3CDN extension will be pulled from <a target="_blank" href="http://www.magentocommerce.com/magento-connect/aws-s3-cdn-for-product-images.html">Magento Connect</a> and remain available on <a target="_blank" href="https://github.com/mVentory/MVentory_S3CDN">GitHub</a> only. We are unlikely to patch it until we actually need to install it somewhere new.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/magento-security-update-supee-6285/">Magento Security Update &#8211; SUPEE-6285</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:20:10 by W3 Total Cache -->

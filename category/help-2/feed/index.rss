@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Help &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/category/help-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>TradeMe Authorisation from Magento</title>
+		<link>http://mventory.com/help-2/server/trademe-authentication-from-magento/</link>
+		<pubDate>Wed, 28 Oct 2015 00:41:34 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3288</guid>
+		<description><![CDATA[<p>The TradeMe add-on you have installed on your website has to be authorised for use in your account before any TradeMe listings can be created. Sometimes TradeMe releases the authorisation &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/server/trademe-authentication-from-magento/">TradeMe Authorisation from Magento</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The TradeMe add-on you have installed on your website has to be authorised for use in your account before any TradeMe listings can be created. Sometimes TradeMe releases the authorisation tokens you need to authorise again.</p>
+<p>It only takes a minute or two.</p>
+<h2>1. Login to your TradeMe account</h2>
+<p>Make sure you are logged into both, Magento admin and your TadeMe account.</p>
+<h2>2. Open TradeMe tab</h2>
+<p>In the admin menu for Magento go to System / Configuration and open the TradeMe tab. The exact location of the tab depends on what else you have installed in your Magento and how those extensions position themselves.</p>
+<p><img class="aligncenter size-medium wp-image-3289" src="http://mventory.com/wp-content/uploads/2015/10/system-config-trademe-460x468.png" alt="system-config-trademe" width="460" height="468" srcset="http://mventory.com/wp-content/uploads/2015/10/system-config-trademe-460x468.png 460w, http://mventory.com/wp-content/uploads/2015/10/system-config-trademe-640x651.png 640w, http://mventory.com/wp-content/uploads/2015/10/system-config-trademe.png 692w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<h2>3. Change to Website scope</h2>
+<p>Select the website scope in the top left corner of the configuration page. You may have multiple websites configured, so select the one you need.</p>
+<p><img class="aligncenter size-medium wp-image-3293" src="http://mventory.com/wp-content/uploads/2015/10/website-scope-460x319.png" alt="website-scope" width="460" height="319" srcset="http://mventory.com/wp-content/uploads/2015/10/website-scope-460x319.png 460w, http://mventory.com/wp-content/uploads/2015/10/website-scope-640x443.png 640w, http://mventory.com/wp-content/uploads/2015/10/website-scope.png 995w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<p>&nbsp;</p>
+<h2>4. Open the TradeMe account tab</h2>
+<p><a href="http://mventory.com/wp-content/uploads/2015/10/authorise-trademe.png"><img class="size-medium wp-image-3292 alignleft" src="http://mventory.com/wp-content/uploads/2015/10/authorise-trademe-460x271.png" alt="authorise-trademe" width="460" height="271" srcset="http://mventory.com/wp-content/uploads/2015/10/authorise-trademe-460x271.png 460w, http://mventory.com/wp-content/uploads/2015/10/authorise-trademe-640x377.png 640w, http://mventory.com/wp-content/uploads/2015/10/authorise-trademe.png 758w" sizes="(max-width: 460px) 100vw, 460px" /></a>The tab may be collapsed and you may have multiple tabs if multiple accounts are configured. Choose the one you need. Remember, they are all linked to different TradeMe accounts.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>5. Authorise</h2>
+<p>Press on Authorise button and then confirm the access on TradeMe screen. You will be redirected to TradeMe website and then back to Magento admin. Remember to be logged into your TradeMe account before starting the authorisation process.</p>
+<p>If you logged in and TradeMe asks you to log in again, the chance is you are trying to authorise the wrong account. You should see ALLOW / DENY options straight after pressing AUTHORISE button.</p>
+<p>TradeMe may completely skip the authisation screen and send you back to Magento admin with a confirmation message if you authorised before.</p>
+<h2>View a demo video</h2>
+<p><iframe src="//fast.wistia.net/embed/iframe/n3vok68l6g" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="460" height="307"></iframe><script src="//fast.wistia.net/assets/external/E-v1.js" async></script></p>
+
+<script charset="ISO-8859-1" src="http://fast.wistia.com/static/concat/iframe-api-v1.js"></script><p>The post <a rel="nofollow" href="http://mventory.com/help-2/server/trademe-authentication-from-magento/">TradeMe Authorisation from Magento</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Report an error</title>
+		<link>http://mventory.com/help-2/app/report-an-error/</link>
+		<pubDate>Mon, 27 Jul 2015 08:30:24 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[App]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3054</guid>
+		<description><![CDATA[<p>If you come across an error when using our App please follow the instructions below. (It helps us make our App easier for you to use)</p>
+<p>1) From the home &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/report-an-error/">Report an error</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>If you come across an error when using our App please follow the instructions below. (It helps us make our App easier for you to use)</p>
+<p><b>1)</b> From the home screen of our mVentory App, press help.<br />
+<img class="aligncenter wp-image-3120 size-medium" src="http://mventory.com/wp-content/uploads/2015/11/step_1.png" alt="step_1" width="194" height="345" /></p>
+<p><b>2)</b> A side bar will appear, click <b>&#8220;Report Errors&#8221;</b> which is located at the top in a red box<br />
+<img class="aligncenter wp-image-3120 size-medium" src="http://mventory.com/wp-content/uploads/2015/11/step_2.png" alt="step_2" width="194" height="345" /></p>
+<p><b>3)</b> An error report will be created, press <b>Yes</b> to continue<br />
+<img class="aligncenter wp-image-3120 size-medium" src="http://mventory.com/wp-content/uploads/2015/11/step_3.png" alt="step_3" width="194" height="345" /></p>
+<p><b>4)</b> If this is the first time you have sent us an error report you will need to select how it will be sent<br />
+<img class="aligncenter wp-image-3120 size-medium" src="http://mventory.com/wp-content/uploads/2015/11/step_4.png" alt="step_4" width="194" height="345" /></p>
+<p><b>5)</b> Your selected Email app will pop up, asking you to write about what happened when the error occurred. This is crucial as we cannot rectify the issue without knowing what happened!<br />
+<img class="aligncenter wp-image-3120 size-medium" src="http://mventory.com/wp-content/uploads/2015/11/step_5.png" alt="step_5" width="194" height="345" /></p>
+<p><b>6)</b> For example: <i>I tried uploading a photo and the App froze</i>.<br />
+Then just send the email.<br />
+<img class="aligncenter wp-image-3120 size-medium" src="http://mventory.com/wp-content/uploads/2015/11/step_6.png" alt="step_6" width="194" height="345" /></p>
+<p><b>7)</b>Your error report has been sent, we will be in contact with you shortly. Thank you!<br />
+<img class="aligncenter wp-image-3120 size-medium" src="http://mventory.com/wp-content/uploads/2015/11/step_8.png" alt="step_8" width="194" height="345" /></p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/report-an-error/">Report an error</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Using External Camera</title>
+		<link>http://mventory.com/help-2/app/using-external-camera/</link>
+		<pubDate>Wed, 08 Jul 2015 03:08:28 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[App]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2867</guid>
+		<description><![CDATA[<p><strong>Requirements:</strong></p>
+<p> EyeFi SD card Digital camera Wireless internet connection mVentory Android API
+<p><strong>The external camera function can be used in a variety of ways</strong></p>
+<p> When loading a product VIA the &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/using-external-camera/">Using External Camera</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Requirements:</strong></p>
+<ul>
+<li>EyeFi SD card</li>
+<li>Digital camera</li>
+<li>Wireless internet connection</li>
+<li>mVentory Android API</li>
+</ul>
+<p><strong>The external camera function can be used in a variety of ways</strong></p>
+<ul>
+<li>When loading a product VIA the mVentory App, the user can link the camera to the phone and use photos taken with the digital camera, uploaded to the App in real time. </li>
+<li>The external camera can be time synced with the app, this is a good function to use when there are no barcodes on your products.</li>
+</ul>
+<p>The external camera, linked with a Photo Editor, can really enhance the look of your product to your audience. By simply removing the background on your product image, it makes it the centre of attention. </p>
+<p>The App and the external camera to work together to load product photos quickly. By yourself or as a team, go through the stock and scan the barcode of an item with the App, and then take photos with the external camera. The camera sends the photos taken in real time to the App, ready for uploading.</p>
+<div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+<div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+<iframe src="//fast.wistia.net/embed/iframe/0r2diqs7qw?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="100%" height="100%"></iframe>
+</div>
+</div>
+<p><script src="//fast.wistia.net/assets/external/E-v1.js" async></script></p>
+
+<script charset="ISO-8859-1" src="http://fast.wistia.com/static/concat/iframe-api-v1.js"></script><p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/using-external-camera/">Using External Camera</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Shipping</title>
+		<link>http://mventory.com/help-2/app/shipping/</link>
+		<pubDate>Wed, 08 Jul 2015 03:07:14 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[App]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2865</guid>
+		<description><![CDATA[<p>Find the order, press on shipping, scan the shipping label.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/shipping/">Shipping</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Find the order, press on shipping, scan the shipping label.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/shipping/">Shipping</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Sales</title>
+		<link>http://mventory.com/help-2/app/sales/</link>
+		<pubDate>Wed, 08 Jul 2015 03:06:30 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[App]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2863</guid>
+		<description><![CDATA[<p>Sell a single item
+<p><a title="Finding products" href="http://mventory.com/help/finding-products/">Find the product</a> and open product details. Tap <strong>Sell now</strong> and enter quantity and price per item. Tap <strong>Sell now</strong> to complete the &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/sales/">Sales</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h3>Sell a single item</h3>
+<p><a title="Finding products" href="http://mventory.com/help/finding-products/">Find the product</a> and open product details. Tap <strong>Sell now</strong> and enter quantity and price per item. Tap <strong>Sell now</strong> to complete the sale.</p>
+<h3>Sell multiple items</h3>
+<p><a title="Finding products" href="http://mventory.com/help/finding-products/">Find the first product</a> and open product details. Tap <strong>Add to cart</strong> and enter quantity and price per item. Tap <strong>Add to cart</strong> again. Find other products and repeat the process. To complete the sale tap on <strong>Menu</strong> and select <strong>Orders</strong>. Tick checkboxes on the right for all the products that are part of this sale, check quantities and prices and tap <strong>Sell now</strong>.</p>
+<h3>View sales</h3>
+<p>From the <strong>Menu</strong> select <strong>Orders</strong>. From the drop-down box at the top you can select orders in various stages to be displayed, e.g. Lates, Canceled, Completed.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/sales/">Sales</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>mVentory Toolbar</title>
+		<link>http://mventory.com/help-2/toolbar/mventory-toolbar/</link>
+		<pubDate>Wed, 08 Jul 2015 03:04:08 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[Toolbar]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2861</guid>
+		<description><![CDATA[<p>mVentory toolbar for Magento offers shortcuts to some commonly used administrative function. </p>
+<p>Log-in with an approved account to see the toolbar at the top of the website. </p>
+<p>It &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/toolbar/mventory-toolbar/">mVentory Toolbar</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>mVentory toolbar for Magento offers shortcuts to some commonly used administrative function. </p>
+<p>Log-in with an approved account to see the toolbar at the top of the website. </p>
+<p>It is displayed on every page of the site, but the contents of the toolbar depends on which page you are on.</p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Edit</strong> &#8211; edit price, details, attributes of the current product.</li>
+<li><strong>Upload</strong> &#8211; upload product photos</li>
+<li><strong>Express Order</strong> &#8211; sell stock with you as the buyer at end of day</li>
+<li><strong>Admin</strong> &#8211; admin access to the current page/product for admin accounts only</li>
+</ul>
+<p><img src="http://mventory.com/wp-content/uploads/2015/10/Snip20151028_8-460x313.png" alt="product-example" width="460" height="314" /></p>
+<h3> Edit the details of the product.</h3>
+<ul>
+<li>Navigate to the correct product page.</li>
+<li>Click ‘Edit’ located in the toolbar.</li>
+<li>a drop-down menu will appear with forms to change details</li>
+<li>make required changes</li>
+<li>click save</li>
+<li>refresh the page to see the changes</li>
+</ul>
+<p><img src="http://mventory.com/wp-content/uploads/2015/10/Snip20151028_10-460x314.png" alt="Edit-product-details" width="460" height="314"/></p>
+<h3>Add/remove product pictures</h3>
+<ul>
+<li>Navigate to the correct product page.</li>
+<li>Click ‘Images’ located in the toolbar.</li>
+<li>a drop-down menu will appear with pictures associated with the product pre loaded.</li>
+<li>To add a photo, drag it to the toolbar</li>
+<li>To rotate a photo, click the appropriate icon.</li>
+<li>To remove a photo, click the red ‘x’ located in the top right corner of the image.</li>
+<li>Refresh the page to see the changes. </li>
+</ul>
+<p><img src="http://mventory.com/wp-content/uploads/2015/10/Snip20151028_9-460x314.png" alt="add-remove-products" width="460" height="314"/></p>
+<h3>Quick link to the admin screen</h3>
+<p>If there is a change that is needed which cant be done from the toolbar, click ‘admin’. This links to the home page of the back-end part of the website. </p>
+<h3>Express Order</h3>
+<p>If you have sold items during the day but didn&#8217;t have time to process them</p>
+<ul>
+<li>Log-in to your shop as a customer with &#8216;Reviewer&#8217; rights.</li>
+<li>Add the required items to the shopping cart.</li>
+<li>Click Express Order</li>
+</ul>
+<p>This will adjust your Magento POS system for you.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/toolbar/mventory-toolbar/">mVentory Toolbar</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Labels</title>
+		<link>http://mventory.com/help-2/app/labels/</link>
+		<pubDate>Wed, 08 Jul 2015 03:02:26 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[App]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2859</guid>
+		<description><![CDATA[<p>How to scan</p>
+<p>How to print</p>
+<p>&#160;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/labels/">Labels</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>How to scan</p>
+<p>How to print</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/app/labels/">Labels</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Hiding Attribute Values</title>
+		<link>http://mventory.com/doc/hiding-attribute-values/</link>
+		<pubDate>Wed, 08 Jul 2015 02:58:21 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[Documentation]]></category>
+		<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2853</guid>
+		<description><![CDATA[<p><strong>You can reduce the list of materials displayed for each store to what they actually need by using ~ symbol for the value in that store scope.</strong></p>
+<p><strong>A shorter list &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/doc/hiding-attribute-values/">Hiding Attribute Values</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>You can reduce the list of materials displayed for each store to what they actually need by using ~ symbol for the value in that store scope.</strong></p>
+<p><strong>A shorter list makes product data entry easier.</strong></p>
+<p>Assume that you have three stores selling</p>
+<ul>
+<li>elite bags</li>
+<li>cheap bags</li>
+<li>secondhand bags</li>
+</ul>
+<p>They all use an attribute <em>material</em> of type <em>dropdown</em> to list materials the bags are made of. There will be all sorts of leather for expensive bags and all sorts of synthetic materials for cheap ones, while the third store may have both.</p>
+<h3>Example:</h3>
+<p><img class="screenShot" src="http://mventory.com/wp-content/uploads/2014/05/Hiding-Attribute-Values.png" alt="Hiding Attribute Values" /></p>
+<p><em>Buckskin</em> and <em>Genuine leather</em> are hidden from <em>Cheap bags</em> store.</p>
+<p><em>Faux</em> leather and <em>PVC</em> are hidden from <em>Elite bags</em> store.</p>
+<p><em>Preloved bags</em> store shows all options.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/doc/hiding-attribute-values/">Hiding Attribute Values</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Global Settings</title>
+		<link>http://mventory.com/help-2/global-settings/</link>
+		<pubDate>Wed, 08 Jul 2015 02:50:31 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[Help]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2849</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://mventory.com/help-2/global-settings/">Global Settings</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://mventory.com/help-2/global-settings/">Global Settings</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Formatting Attributes</title>
+		<link>http://mventory.com/doc/formatting-attributes/</link>
+		<pubDate>Wed, 08 Jul 2015 02:49:49 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[Documentation]]></category>
+		<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2847</guid>
+		<description><![CDATA[<p>A formatting attribute is a special attribute that is used by mVentory to store formatting rules for <a title="Automated Product Name Generation" href="http://mventory.com/doc/automated-product-name-generation/">product name auto-generation</a>. Each attribute set can have &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/doc/formatting-attributes/">Formatting Attributes</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>A formatting attribute is a special attribute that is used by mVentory to store formatting rules for <a title="Automated Product Name Generation" href="http://mventory.com/doc/automated-product-name-generation/">product name auto-generation</a>. Each attribute set can have its own formatting attribute; hence, the formatting rules are defined on a per-attribute set basis.</p>
+<p>Formatting attributes are not visible in the front-end or in the Android application. The default value of these attributes is where the formatting information is stored.</p>
+<p>mVentory allows automation of the following tasks through the use of information stored in the formatting attributes:</p>
+<ul>
+<li><a title="Automated Product Name Generation" href="http://mventory.com/doc/attribute-features/automated-product-name-generation/">automated product name creation from product attributes</a></li>
+<li><a title="Bulk Product Name Rebuilding" href="http://mventory.com/doc/attribute-features/bulk-product-name-rebuilding/">bulk rebuilding of product names</a></li>
+<li>approximation of values in attributes</li>
+<li><a title="Hiding an Entire Attribute Set" href="http://mventory.com/doc/attribute-features/hiding-an-entire-attribute-set/">hiding attribute sets from showing in the app</a></li>
+</ul>
+<h3>Creating a formatting attribute</h3>
+<p>Create a new attribute. The <em>attribute code</em> can be anything you like, but keeping them consistent makes maintenance easier. We suggest a combination of a recognisable prefix and the name of the attribute set that it will apply to, e.g. <em>frm_computers</em> or <em>frm_clothing</em>. The admin label for the attribute <em>must be set to that of the name of the attribute set</em> that this formatting attribute should apply to. This is what defines this attribute as the formatting type.</p>
+<p>Attribute settings:</p>
+<ul>
+<li>Scope: <em>Global</em></li>
+<li>Type: <em>Text field</em></li>
+<li>All the other fields:<em> leave default values</em></li>
+<li>Admin label (Manage Label/Options tab): <em>must be the same as the name of the attribute set it will apply to</em></li>
+</ul>
+<p>Save the attribute and <em>add it to the attribute set.</em></p>
+<h3>Example</h3>
+<p>This is an example of a formatting attribute for attribute set Welding. The formatting rule is stored in the default value:</p>
+<p><img class="screenShot" src="http://mventory.com/wp-content/uploads/2014/10/Welding-Formatting-Attribute.png" alt="Welding Formatting Attribute" /></p>
+<p>And the admin label for the attribute is set to Welding.</p>
+<p><img class="screenShot" src="http://mventory.com/wp-content/uploads/2014/10/Welding-Formatting-Attribute-Label.png" alt="Welding Formatting Attribute label" /></p>
+<p>The post <a rel="nofollow" href="http://mventory.com/doc/formatting-attributes/">Formatting Attributes</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:19:11 by W3 Total Cache -->

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Automation &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/tag/automation/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Automated TradeMe Title Optimisation</title>
+		<link>http://mventory.com/articles/automated-trademe-title-optimisation/</link>
+		<pubDate>Fri, 24 Jul 2015 00:04:44 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[Automation]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2970</guid>
+		<description><![CDATA[<p>I explained in <a href="/?p=2968">another post</a> the role listing titles play in TradeMe search. Basically, <strong>a well optimised title can double the number of views on the listing</strong>. Think how &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/automated-trademe-title-optimisation/">Automated TradeMe Title Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>I explained in <a href="/?p=2968">another post</a> the role listing titles play in TradeMe search. Basically, <strong>a well optimised title can double the number of views on the listing</strong>. Think how many more sales you can get from that little number.</p>
+<p>Product names on an e-commerce website are optimised for Google and user experience. They are contextual to the area of the website. It works fine there.</p>
+<p><img class="alignnone size-full wp-image-3015" src="http://mventory.com/wp-content/uploads/2015/07/magento-product-name.png" alt="magento-product- name" width="561" height="397" srcset="http://mventory.com/wp-content/uploads/2015/07/magento-product-name-460x326.png 460w, http://mventory.com/wp-content/uploads/2015/07/magento-product-name.png 561w" sizes="(max-width: 561px) 100vw, 561px" /></p>
+<p>A product title like &#8220;<em>KZOAO Allure Freestanding Stone Bath * 1500L x 750W x 580Hmm</em>&#8221; is informative and easy to understand, but it won&#8217;t perform well in TradeMe search. Unless you sell a high affinity brand like Nike it is counter productive to start your TradeMe listing title with the brand name.</p>
+<p>Try renaming &#8220;<em>KZOAO Allure Freestanding Stone Bath * 1500L x 750W x 580Hmm</em>&#8221; to &#8220;<em>Freestanding bath 1500mm Stone</em>&#8221;</p>
+<h4>Listing title optimisation</h4>
+<p>Our <a href="/trademe-extension-for-magento/">TradeMe extension</a> can optimize the titles on the fly for one or more variants.</p>
+<p>For example, if the product title on your website is &#8220;<em>KZOAO Allure Freestanding Stone Bath * 1500L x 750W x 580Hmm</em>&#8221;</p>
+<p>the TradeMe listing variations could be:</p>
+<ul>
+<li>Freestanding Stone Bath * 1500L x 750W x 580Hmm</li>
+<li>Bath Freestanding 1500L</li>
+<li>Freestanding Bath * 1500L x 750W x 580Hmm</li>
+</ul>
+<p>These listings can be on TradeMe at the same time or use sequentially &#8211; as one expires another one is listed with a different name. This may sound counter-intuitive to list the same product more than once, but it works and helps to drive more sales.</p>
+<h4>TradeMe views calculator</h4>
+<p>We created a simple Google Spreadsheet to demonstrate the value in adding additional name variations.<br />
+You can copy it from our <a target="_blank" href="https://drive.google.com/folderview?id=0B10XfYAM_N_hfktXZkVNV3JSQ1lxdGlfbUp2VFNQaGx1ZkpBMlVDTWNVaU1oQTY4VFg1RXM&amp;usp=sharing">e-commerce calculators folder</a> to play with the numbers yourself.</p>
+<p>&nbsp;</p>
+<p><iframe width="98%" height="650px" src="https://docs.google.com/spreadsheets/d/1oKsJuvIIZtmONz5bObkgm7Of2O-3Z_3M3yr0LblDBs0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe><br />
+&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/automated-trademe-title-optimisation/">Automated TradeMe Title Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:20:25 by W3 Total Cache -->

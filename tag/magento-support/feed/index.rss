@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Magento support &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/tag/magento-support/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Clear APC Cache script for Magento updates</title>
+		<link>http://mventory.com/articles/apc-surprise-magento-updates-gone-wrong/</link>
+		<pubDate>Tue, 16 Feb 2016 16:27:12 +0000</pubDate>
+		<dc:creator><![CDATA[anatoly]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[deployment]]></category>
+		<category><![CDATA[Magento support]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=4068</guid>
+		<description><![CDATA[<p>Imagine it&#8217;s end of Friday, you finished testing some new e-commerce feature on Magento staging, everything worked OK, you deploy it to Magento production and &#8230; nothing. You see no &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/apc-surprise-magento-updates-gone-wrong/">Clear APC Cache script for Magento updates</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Imagine it&#8217;s end of Friday, you finished testing some new e-commerce feature on Magento staging, everything worked OK, you deploy it to Magento production and &#8230; nothing. You see no new behavior in production at all or only some of it. It can be worse &#8211; a 500 error. Very odd.</p>
+<p><strong>Possible causes</strong>: some sort of caching, cache for PHP code &#8211; <a href="http://php.net/manual/en/book.apc.php" target="_blank">APC</a> (or it&#8217;s friends).</p>
+<p>If APC PHP opcode cache you use for your Magento e-commerce site is really the cause you need to reset it. It&#8217;s easier said than done to remember <a href="http://php.net/manual/en/function.apc-clear-cache.php" target="_blank">some API you use twice a year</a>.</p>
+<h2>APC reset script</h2>
+<p>I wrote a hassle-free bash script to clear APC cache in one command:</p><pre class="crayon-plain-tag">#!/bin/bash
+
+# This script creates a simple PHP script to clear APC cache
+# in the root directory of a website and calls it via HTTP (so the script is
+# executed in the same environment as PHP code of the website)
+
+DIR_ROOT='/var/www/htdocs'
+URL_ROOT='http://www.foobar.com'
+
+random_name=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 32 | head -n 1)
+script_name=$random_name.php
+
+cat &gt; $DIR_ROOT/$script_name&lt;&lt;EOF
+&lt;?php
+
+echo apc_clear_cache() &amp;&amp; apc_clear_cache('user');
+EOF
+
+result=$(wget --quiet -O - $URL_ROOT/$script_name)
+rm $DIR_ROOT/$script_name
+
+if [[ $result == 1 ]]
+then
+  echo 'Successfully reset APC cache'
+else
+  echo 'Failed to reset APC cache'
+  echo $result
+fi</pre><p>The script is ready to use after simple configuration of two variables:</p>
+<ul>
+<li><code>DIR_ROOT</code> should contain absolute path to the root directory of your web-server.</li>
+<li><code>URL_ROOT</code> is for the address of the website.</li>
+</ul>
+<p>Upload the configured script to some secure place on your web-server (e.g. home directory) and run it under a user with sufficient rights to write into the root of the web-server, e.g. <code>web-server user</code> or <code>root</code>.</p>
+<p>You can delete the script from the web-server after it successfully reset APC cache or move it to some other folder outside of the site&#8217;s root &#8211; you are likely to need it again.</p>
+<p><strong>Some details about the script:</strong></p>
+<ul>
+<li>The script creates a PHP file to call APC function to reset its cache</li>
+<li>For security reasons that PHP file is created under a random name and is removed at the end.</li>
+<li>The PHP file is executed by the web-server to call a cache cleaning function for APC cache shared between PHP processed spawned by web-server or PHP-FPM</li>
+<li>It resets <code>system</code> and <code>user</code> APC caches.</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/apc-surprise-magento-updates-gone-wrong/">Clear APC Cache script for Magento updates</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:19:54 by W3 Total Cache -->

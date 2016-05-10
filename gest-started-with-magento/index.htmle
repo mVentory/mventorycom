@@ -1,0 +1,330 @@
+<!DOCTYPE HTML>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../wp-content/themes/Nost/style.css" />
+ <!--[if IE]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <link rel="stylesheet" href="http://mventory.com/wp-content/themes/Nost/css/ie.css" type="text/css" />
+  <![endif]-->
+  <title>
+		
+		Package roll-out process // mVentory		
+	</title>  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+<!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="index.html" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Package roll-out process - mVentory" />
+<meta property="og:description" content="mVentory brings together complicated tools and IT systems into a single easy to use package to give you a head start in the e-commerce game. &#8230;" />
+<meta property="og:url" content="http://mventory.com/gest-started-with-magento/" />
+<meta property="og:site_name" content="mVentory" />
+<meta property="og:image" content="../wp-content/uploads/2016/02/how-it-works_diagram.svg" />
+<meta property="og:image" content="../wp-content/uploads/2016/02/mventory-back-office-integration.svg" />
+<meta property="og:image" content="../wp-content/uploads/2016/02/mventory-product-loading.svg" />
+<meta property="og:image" content="../wp-content/uploads/2016/02/mventory-marketing-automation.svg" />
+<meta property="og:image" content="../wp-content/uploads/2016/02/mventory-sales-channels.svg" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content=" mVentory brings together complicated tools and IT systems into a single easy to use package to give you a head start in the e-commerce game. &#8230;"/>
+<meta name="twitter:title" content="Package roll-out process - mVentory"/>
+<meta name="twitter:domain" content="mVentory"/>
+<meta name="twitter:image" content="../wp-content/uploads/2016/02/how-it-works_diagram.svg"/>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="mVentory &raquo; Feed" href="../feed/index.rss" />
+<link rel="alternate" type="application/rss+xml" title="mVentory &raquo; Comments Feed" href="../comments/feed/index.rss" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/mventory.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='crayon-css'  href='../wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min-ver=_2.7.2_beta.css' type='text/css' media='all' />
+<link rel='stylesheet' id='icomoon-css'  href='../wp-content/plugins/menu-icons-icomoon/css/icomoon-ver=20140611.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='../wp-includes/css/dashicons.min-ver=4.4.2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elusive-css'  href='../wp-content/plugins/menu-icons/includes/library/icon-picker/css/types/elusive.min-ver=2.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='../wp-content/plugins/menu-icons/includes/library/icon-picker/css/types/font-awesome.min-ver=4.4.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-icons-css'  href='../wp-content/plugins/menu-icons/includes/library/icon-picker/css/types/foundation-icons.min-ver=3.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='../wp-content/plugins/menu-icons/includes/library/icon-picker/css/types/genericons.min-ver=3.4.css' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='../wp-content/plugins/menu-icons/css/extra.min-ver=0.9.0.css' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-ver=1.11.3.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min-ver=1.2.1.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/mventory.com\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min-ver=_2.7.2_beta.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var awesome_checklist_var = {"postId":"3699","url":"\/gest-started-with-magento\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/awesome-checklist/scripts-ver=4.4.2.js'></script>
+<script type='text/javascript' src='../wp-content/plugins/hms-testimonials/rotator-ver=4.4.2.js'></script>
+<link rel='https://api.w.org/' href='../wp-json/index.json' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed-url=http-%7C%7Cmventory.com%7Cgest-started-with-magento%7C.json" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed-url=http-%7C%7Cmventory.com%7Cgest-started-with-magento%7C&amp;format=xml.xml" />
+<link rel="Shortcut Icon" type="image/x-icon" href="../wp-content/themes/Nost/favicon.ico" /></head>
+
+<body class="page page-id-3699 page-template page-template-page-sales page-template-page-sales-php">
+<!-- Google Tag Manager -->
+<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-KMBLND"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KMBLND');</script>
+<!-- End Google Tag Manager --><header id="header">
+  <div id="header-wrapper">
+  <div class="container_12 group">
+    <div class="grid-inner">
+      <h1>
+        <a title="Enterprise E-Commerce for Small Businesses" href="../">mVentory</a>
+      </h1>
+
+            <nav id="navigation">
+        <ul><li id="menu-item-3094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3094"><h5><a title="Magento product information and integration system" href="../"><i class="_mi dashicons dashicons-admin-home"></i><span class="visuallyhidden">Home2</span></a></h5></li>
+<li id="menu-item-4046" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4046"><h5><a title="Inventory management app for e-commerce" href="../stock-management-app/">Inventory app</a></h5></li>
+<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><h5><a title="Integrated Magento package" href="../magento-package-features/">Magento package</a></h5></li>
+<li id="menu-item-4109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4109"><h5><a title="Magento integrations" href="../magento-integration/">Integrations</a></h5></li>
+<li id="menu-item-3431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3431"><h5><a title="e-Commerce Blog" href="../category/articles/">Blog</a></h5></li>
+<li id="menu-item-3428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3428"><h5><a title="Order your site now or just ask questions." href="../contact-us/"><span>Contact us</span><i class="_mi _after dashicons dashicons-phone" style="font-size:1em;"></i></a></h5></li>
+</ul>      </nav>
+      <!-- div id="mobile_menu"><span></span></div -->
+          </div>
+  </div>
+  </div>
+
+</header>
+<section id="page_wrap" class="primary">
+
+	<section id="content_wrap">
+	
+						
+			<article id="page-3699" class="post-3699 page type-page status-publish hentry">
+				<section id="title_wrap" class="grey">
+					<div class="container_12 group">
+						<h1 class="grey">Package roll-out process</h1>
+					</div>
+				</section>
+				<section class="grey">
+<div class="container_12 group">
+<strong class="grid_12 description">mVentory brings together complicated tools and IT systems into a single easy to use package to give you a head start in the e-commerce game.</strong><br />
+</strong>
+</div>
+</section>
+<section class="feature-list">
+<div  class="container_12 group">
+<div class="grid_7">
+<img src="../wp-content/uploads/2016/02/how-it-works_diagram.svg" alt="how-it-works-overview-sketch" width="100%" class="stickmen" />
+</div>
+<div class="grid_5" id="hitw-intro">
+<p>It takes years and a significant investment to build a well functioning and fully integrated e-commerce website. You can have it all on day one.</p>
+<p>Our package fills the gaps most merchants don’t even know about at the beginning of their ecommerce projects.</p>
+</div>
+</div>
+</section>
+<section class="feature-list">
+<div  class="container_12 group howit-l" id="howit-1">
+<!-- img src="http://mventory.com/wp-content/uploads/2013/07/mventory-e-commerce-platform-set-up.png" alt="mventory-e-commerce-platform-set-up" class="aligncenter size-full wp-image-3608" / --></p>
+<div class="grid_12" id="howit-start">
+<h5>E-commerce platform set up</h5>
+<p>First of all, we set up an e-commerce engine (Magento), including all the necessary tools, extensions and configuration for end to end process from loading stock to marketing to tracking sales. The package also includes performance tuning, automated backups, monitoring and many other essentials. We make it simple enough even for a small business to use this powerful platform.</p>
+<p>We chose Magento as the core of our package because of its power and flexibility. It is an enterprise level e-commerce platform used to power 260,000 online stores worldwide, mainly by mid-size and large merchants.</p>
+<p>Performance : Proactive monitoring
+</p></div>
+</div>
+</section>
+<section class="feature-list">
+<div  class="container_12 group howit-r" id="howit-2">
+<div class="grid_7">
+<h5>Back office integration</h5>
+<p>We connect your website to your inventory and accounting systems.</p>
+<p>Your existing products will be added to the website database automatically. You won&#8217;t have the additional workload of tracking stock on the website. There is also a lot of flexibility to decide what appears on the website and what form using rules or configuring products one by one.</p>
+<p>We have a growing list of modules for direct integration with retail, stock and accounting systems.</p>
+<p>Available modules : Custom integration : Case studies
+</p></div>
+<div class="grid_4 spacetop">
+<img src="../wp-content/uploads/2016/02/mventory-back-office-integration.svg" alt="mventory-back-office-integration" width="100%" />
+</div>
+</div>
+</section>
+<section class="feature-list">
+<div  class="container_12 group howit-l" id="howit-3">
+<div class="grid_4 spacetop">
+<img src="../wp-content/uploads/2016/02/mventory-product-loading.svg" alt="mventory-product-loading" width="100%" />
+</div>
+<div class="grid_7">
+<h5>Product loading</h5>
+<p>Our package includes a smartphone app and desktop tools for adding product details, photos and videos. </p>
+<p>These tools are built for non-technical users. You or your staff will be able to take professional photos, remove backgrounds and upload the clear-cut photos to the site with just a few clicks.</p>
+<p>We will help you set up the best process to get the best results in the shortest period of time.</p>
+<p>mVentory App : Image editing : Toolbar</p>
+</div>
+</div>
+</section>
+<section class="feature-list">
+<div  class="container_12 group howit-r" id="howit-4">
+<div class="grid_12">
+<h5>Website design and branding</h5>
+<p>The best time to work on the design is when the website is up and running, connected to the back end systems and has at least some products loaded with full details and quality photos.</p>
+<p>We offer a choice of thousands of professional website templates that we can customise with your branding. There are very few design constraints, but we recommend a clean professional design that focuses the attention on the product.</p>
+<p>You can always use your own design team to create something uniquely yours or make more changes later. </p>
+<p>Available templates : Branding : Custom design : Shopping cart vs Catalog : B2B
+</p></div>
+</div>
+</section>
+<section class="feature-list">
+<div  class="container_12 group howit-l" id="howit-5">
+<div class="grid_4 spacetop">
+<img src="../wp-content/uploads/2016/02/mventory-marketing-automation.svg" alt="mventory-marketing-automation" width="100%" />
+</div>
+<div class="grid_7">
+<h5>Marketing automation</h5>
+<p>Bringing visitors to your website can be challenging. We built many marketing automation tools into our package to help your website market itself. It can collect visitor email addresses and likes, push content to social media, send out newsletters and run Google Ads campaigns among other features.</p>
+<p>Social connect : Chat : Sharing : Social selling : Ads : Affiliate networks</p>
+</div>
+</div>
+</section>
+<section class="feature-list">
+<div  class="container_12 group howit-r" id="howit-6">
+<div class="grid_7">
+<h5>Sales channels</h5>
+<p>Our package helps you reach customers in other marketplaces. Your website can connect to eBay, Amazon, Rakuten, TradeMe and other marketplaces and sell your products in real time without managing them all separately.</p>
+<p>We will help you connect and configure rules to push your products to other websites automatically.</p>
+<p>Google Products : eBay : Trade Me : Amazon
+</p></div>
+<div class="grid_4 spacetop">
+<img src="../wp-content/uploads/2016/02/mventory-sales-channels.svg" alt="mventory-sales-channels" width="100%" />
+</div>
+</div>
+</section>
+<section class="feature-list">
+<div  class="container_12 group howit-l" id="howit-7">
+<div class="grid_12">
+<h5>Turn key solution</h5>
+<p>We don’t just sell software – we make it work for you.</p>
+<p>We start with understanding your business, your vision, then we launch a new website, connect it to external systems and make sure everything works 100%. You get a fully functional system that is ready to make you money.</p>
+<p>Discuss your project : Watch demos : Order now
+</p></div>
+</div>
+</section>
+<section class="feature-list">
+<div  class="container_12 group">
+<div class="grid_6 spacetop">
+<h5 id="howto-more">Hosting and support</h5>
+<p>Our e-commerce hosting includes full ongoing support of all parts of the solution, including patches, service releases and new features. Your website can also be hosted by other hosting companies or yourself.</p>
+<p>Hosting : Support : Online help
+</p></div>
+<div class="grid_6 spacetop">
+<h5 id="howto-more">For web developers</h5>
+<p>We love partnering with web developers to give them a head start with a Magento product. Our package can be rolled out in minimal time to be the base for further customisation. </p>
+<p>Partnerships : Open Source : Licensing
+</p></div>
+</div>
+</section>
+</div>
+</div>
+</section>
+	
+			</article><!-- page-ID -->
+			
+
+				
+	</section><!-- content_wrap -->
+
+</section><!-- page_wrap -->
+
+	<footer id="main_footer">
+
+	<div id="bottom-quote" class="en group grid-wrapper">
+		<div class="container_12"><div class="grid_12 home-section-spacer">&nbsp;</div></div>
+		<div class="container_12">
+			<div class="grid_7" id="home-footer-action">
+				<h3>Step up your online game now</h3>
+				<div id="get-it"   class="group">
+					<ul class="grid-wrapper group">
+						<li class="grid_4 alpha"><a class="button" id="get-it-demo" title="Learn from success" href="../case-studies/">Case studies</a></li>
+						<li class="grid_4"><a class="button" id="get-it-trial" title="Download the app and try it in action with our demo store" target="_blank" href="http://try.mventory.com">Try the app</a></li>
+						<li class="grid_4 omega"><a class="button" id="get-it-get" title="Get mVentory now to start selling more" href="../contact-us/">Order now</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="grid_4 prefix_1"  id="home-footer-offer">
+				<h5>What you get:</h5>
+				<ul>
+					<li class="check-icon">Magento e-commerce</li>
+					<li class="check-icon">Tools and integrations</li>
+					<li class="check-icon">Full service</li>
+					<li class="check-icon">Turnkey solution</li>
+					<li class="check-icon">Fixed price</li>
+				</ul>
+			</div>
+		</div>
+		<div class="container_12"><div class="grid_12 home-section-spacer">&nbsp;</div></div>
+	</div>
+
+	<div>
+		<div id="footer-wrap">
+			<div id="footer-menu" class="container_12 group">
+				<div class="grid-wrapper group">
+					<section class="grid_4 alpha">
+						<ul id="footer-column-1" class=""><li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390"><a href="../why-mventory/">For Magento users</a></li>
+<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="../for-mid-size-businesses/">For larger businesses</a></li>
+<li id="menu-item-764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-764"><a href="../for-web-developers/">For web developers</a></li>
+<li id="menu-item-3995" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3699 current_page_item menu-item-3995"><a href="index.html">Get started</a></li>
+</ul>					</section>
+					<section class="grid_4">
+						<ul id="footer-column-2" class=""><li id="menu-item-374" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-374"><a href="../category/help-2/">App User Help</a></li>
+<li id="menu-item-571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-571"><a href="../doc/installation/">Installation</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-572"><a href="../doc/configuration-2/">Configuration</a></li>
+<li id="menu-item-589" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-589"><a title="View all of our source code" href="https://github.com/mVentory">Source Code</a></li>
+<li id="menu-item-1454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1454"><a title="We make Magento better" href="../magento-extensions/">Magento Extensions</a></li>
+</ul>					</section>
+					<section class="grid_4 omega">
+						<ul id="footer-column-3" class=""><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="../contact-us/">Contact us</a></li>
+<li id="menu-item-3997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3997"><a href="../demo/">Demos</a></li>
+<li id="menu-item-3430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3430"><a href="../pricing/">Pricing</a></li>
+<li id="menu-item-1034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1034"><a href="../licensing/">Licensing</a></li>
+<li id="menu-item-1030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1030"><a href="../privacy/">Privacy</a></li>
+</ul>					</section>
+				</div>
+			</div>
+			<div class="footer-partners">
+				<a id="trademe" href="../trademe-extension-for-magento/">TradeMe</a>
+				<a id="aws-s3" href="http://www.magentocommerce.com/magento-connect/aws-s3-cdn-for-product-images.html">AWS S3</a>
+				<a id="kudos" href="http://www.kudos.co.nz/">Kudos</a>
+				<a id="orion" href="http://www.sam.co.nz/ourproducts/orion/">Orion</a>
+			</div>
+			<p id="copyright">&copy;2015 mVentory Ltd.</p>
+		</div>
+	</div>
+</footer>
+
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min-ver=1.11.4.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/widget.min-ver=1.11.4.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/accordion.min-ver=1.11.4.js'></script>
+<script type='text/javascript' src='../wp-includes/js/mediaelement/froogaloop.min-ver=2.0.js'></script>
+<script type='text/javascript' src='../wp-content/themes/Nost/scripts/mwpt-scripts.js'></script>
+<script type='text/javascript' src='../wp-includes/js/wp-embed.min-ver=4.4.2.js'></script>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:18:27 by W3 Total Cache -->

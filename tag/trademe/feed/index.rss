@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TradeMe &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/tag/trademe/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Old Trade Me fees &#8211; 2014, 2015</title>
+		<link>http://mventory.com/articles/old-trade-me-fees-2014-2015/</link>
+		<pubDate>Mon, 08 Feb 2016 20:30:43 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3979</guid>
+		<description><![CDATA[<p>We don&#8217;t pretend to be the Internet Archive, but some times there is information worth preserving.</p>
+<p>The image below is a screenshot of what Trade Me fees were on Tuesday, &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/old-trade-me-fees-2014-2015/">Old Trade Me fees &#8211; 2014, 2015</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>We don&#8217;t pretend to be the Internet Archive, but some times there is information worth preserving.</p>
+<p>The image below is a screenshot of what Trade Me fees were on Tuesday, 12 January 2016, before the change to a single flat fee on 1 February 2016.</p>
+<p>Click on the image to view in full resolution.</p>
+<p><a target="_blank" href="/wp-content/uploads/2016/02/TradeMe-Fees-2015.png" rel="attachment wp-att-3980"><img src="/wp-content/uploads/2016/02/TradeMe-Fees-2015-292x960.png" alt="TradeMe-Fees-2015" width="292" height="960" class="aligncenter size-large wp-image-3980" srcset="http://mventory.com/wp-content/uploads/2016/02/TradeMe-Fees-2015-210x690.png 210w, http://mventory.com/wp-content/uploads/2016/02/TradeMe-Fees-2015-292x960.png 292w" sizes="(max-width: 292px) 100vw, 292px" /></a></p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/old-trade-me-fees-2014-2015/">Old Trade Me fees &#8211; 2014, 2015</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Free multiple images for Trade Me have arrived</title>
+		<link>http://mventory.com/articles/free-multiple-images-for-magento/</link>
+		<pubDate>Tue, 02 Feb 2016 02:01:44 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3711</guid>
+		<description><![CDATA[<p><img class="size-large wp-image-3713 alignright" src="/wp-content/uploads/2016/02/multiple-trademe-images-640x342.png" alt="multiple-trademe-images" width="460" height="246" srcset="http://mventory.com/wp-content/uploads/2016/02/multiple-trademe-images-460x246.png 460w, http://mventory.com/wp-content/uploads/2016/02/multiple-trademe-images-768x411.png 768w, http://mventory.com/wp-content/uploads/2016/02/multiple-trademe-images-640x342.png 640w, http://mventory.com/wp-content/uploads/2016/02/multiple-trademe-images.png 1327w" sizes="(max-width: 460px) 100vw, 460px" />It&#8217;s time to turn multiple images for all your products &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/free-multiple-images-for-magento/">Free multiple images for Trade Me have arrived</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="size-large wp-image-3713 alignright" src="/wp-content/uploads/2016/02/multiple-trademe-images-640x342.png" alt="multiple-trademe-images" width="460" height="246" srcset="http://mventory.com/wp-content/uploads/2016/02/multiple-trademe-images-460x246.png 460w, http://mventory.com/wp-content/uploads/2016/02/multiple-trademe-images-768x411.png 768w, http://mventory.com/wp-content/uploads/2016/02/multiple-trademe-images-640x342.png 640w, http://mventory.com/wp-content/uploads/2016/02/multiple-trademe-images.png 1327w" sizes="(max-width: 460px) 100vw, 460px" />It&#8217;s time to turn multiple images for all your products on.<br />
+As part of their <a href="http://www.trademe.co.nz/community/announcements/post/1455" target="_blank">pricing change</a>, Trade Me (finally!) allowed uploading unlimited number of images per product for free. It used to be 10c up until today. </p>
+<h3>Turn multiple images on now</h3>
+<p>If you are using the latest version of our <a href="/trademe-extension-for-magento/">Trade Me connector for Magento</a>, you can just turn them on in the admin:</p>
+<ol>
+<li>Log into your Magento admin console.</li>
+<li>Navigate to System -&gt; Configuration -&gt; TradeMe</li>
+<li>Change the value of Submit all images setting inside Images tab to Yes.</li>
+<li>Save</li>
+</ol>
+<p>All new auctions from then all should have all product images copied from Magento into Trade Me.</p>
+<h3>How did the pricing change affect you?</h3>
+<p>We know that some of our customers are hit hard because they fall into the <a href="/articles/trade-me-fees-flat-7-9/">most taxed price range</a>. <a href="mailto:max@mventory.com">Let us know</a>.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/free-multiple-images-for-magento/">Free multiple images for Trade Me have arrived</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Flat 7.9% Trade Me fees change hits mid-range auctions</title>
+		<link>http://mventory.com/articles/trade-me-fees-flat-7-9/</link>
+		<pubDate>Mon, 11 Jan 2016 23:37:05 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3637</guid>
+		<description><![CDATA[<p>The good news: simplified pricing
+<p><img class="aligncenter size-medium wp-image-3638" src="http://mventory.com/wp-content/uploads/2016/01/Screenshot-6-460x534.png" alt="Screenshot (6)" width="460" height="534" srcset="http://mventory.com/wp-content/uploads/2016/01/Screenshot-6-460x534.png 460w, http://mventory.com/wp-content/uploads/2016/01/Screenshot-6-768x891.png 768w, http://mventory.com/wp-content/uploads/2016/01/Screenshot-6-640x743.png 640w, http://mventory.com/wp-content/uploads/2016/01/Screenshot-6.png 978w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<p> The bad news: &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trade-me-fees-flat-7-9/">Flat 7.9% Trade Me fees change hits mid-range auctions</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">The good news: simplified pricing</h2>
+<p><img class="aligncenter size-medium wp-image-3638" src="http://mventory.com/wp-content/uploads/2016/01/Screenshot-6-460x534.png" alt="Screenshot (6)" width="460" height="534" srcset="http://mventory.com/wp-content/uploads/2016/01/Screenshot-6-460x534.png 460w, http://mventory.com/wp-content/uploads/2016/01/Screenshot-6-768x891.png 768w, http://mventory.com/wp-content/uploads/2016/01/Screenshot-6-640x743.png 640w, http://mventory.com/wp-content/uploads/2016/01/Screenshot-6.png 978w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<h2 style="text-align: center;">The bad news: you gonna pay more</h2>
+<p>Trade Me fees used to be a bit complicated because it was a sliding scale. Sellers paid less with the auction price increase.</p>
+<ul>
+<li>Sale price $200 or less -7.9% fee.</li>
+<li>Sale price between $200 and $1,500 &#8211; $15.8 for the $200 portion and 4.9% above that.</li>
+<li>Sales over $1,500 &#8211; $79.50 for under $1,500 portion and 1.9% above that.</li>
+</ul>
+<p>The fees were capped at $149, so if you sell something over $5,200 you wouldn&#8217;t pay more than $149 in fees anyway.</p>
+<p>The fees are still capped at $149 and the commission didn&#8217;t go over the tough psychological barrier of 8%, but the structure has changed so that the mid-range items will generate more fees for Trade Me and leave less money for the seller.</p>
+<p><img class="aligncenter size-full wp-image-3644" src="http://mventory.com/wp-content/uploads/2016/01/7.9-vs-old.png" alt="7.9-vs-old" width="816" height="531" srcset="http://mventory.com/wp-content/uploads/2016/01/7.9-vs-old-460x299.png 460w, http://mventory.com/wp-content/uploads/2016/01/7.9-vs-old-768x500.png 768w, http://mventory.com/wp-content/uploads/2016/01/7.9-vs-old-640x416.png 640w, http://mventory.com/wp-content/uploads/2016/01/7.9-vs-old.png 816w" sizes="(max-width: 816px) 100vw, 816px" /></p>
+<p>So there is no change to under $200 auctions &#8211; it is the same 7.9% as before.</p>
+<p>Selling something for $300 will cost you $3 more, which isn&#8217;t much, but if you sell a lot it means you will be paying 14% fees to Trade Me.</p>
+<p>Selling something for $1,000 would be $55 under the old pricing and $79 under the new. The $24 difference makes it a 43% increase.</p>
+<p>And if your auction reaches $1,900 you will pay whooping 71% more in fees (from $87 to $149).</p>
+<p>The full breakdown of the comparison is illustrated in the table below.</p>
+<table dir="ltr" border="1" cellspacing="0" cellpadding="0">
+<colgroup>
+<col width="100" />
+<col width="115" />
+<col width="121" />
+<col width="100" />
+<col width="100" /></colgroup>
+<tbody>
+<tr>
+<td style="text-align: center;" data-sheets-value="[null,2,&quot;Sale price&quot;]"><strong>Sale price</strong></td>
+<td style="text-align: center;" data-sheets-value="[null,2,&quot;Old commission&quot;]"><strong>Old commission</strong></td>
+<td style="text-align: center;" data-sheets-value="[null,2,&quot;New commission&quot;]"><strong>New commission</strong></td>
+<td style="text-align: center;" data-sheets-value="[null,2,&quot;Increase, $&quot;]"><strong>Increase, $</strong></td>
+<td style="text-align: center;" data-sheets-value="[null,2,&quot;Increase, %&quot;]"><strong>Increase, %</strong></td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,10]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.79]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$0.79</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.79]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$0.79</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$0.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">0.00%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,50]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3.95]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$3.95</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3.95]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$3.95</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$0.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">0.00%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,100]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$100</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,7.9]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$7.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,7.9]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$7.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$0.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">0.00%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,150]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$150</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,11.85]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$11.85</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,11.85]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$11.85</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$0.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">0.00%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,200]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$200</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,15.8]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$15.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,15.8]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$15.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$0.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">0.00%</td>
+</tr>
+<tr style="background-color: #fff7ad;">
+<td style="text-align: right;" data-sheets-value="[null,3,null,250]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$250</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,18.25]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$18.25</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,19.75]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$19.75</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$1.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.0821917808219178]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">8.22%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,300]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$300</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,20.7]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$20.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,23.7]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$23.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$3.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.14492753623188406]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">14.49%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,350]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$350</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,23.15]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$23.15</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,27.65]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$27.65</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$4.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.19438444924406048]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">19.44%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,400]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$400</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,25.6]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$25.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,31.6]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$31.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,6]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$6.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.234375]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">23.44%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,450]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$450</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,28.05]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$28.05</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,35.55]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$35.55</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,7.4999999999999964]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$7.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.2673796791443849]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">26.74%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,500]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$500</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,30.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$30.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,39.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$39.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,9]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$9.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.29508196721311475]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">29.51%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,550]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$550</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,32.95]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$32.95</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,43.45]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$43.45</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,10.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$10.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.3186646433990895]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">31.87%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,600]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$600</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,35.4]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$35.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,47.4]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$47.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,12]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$12.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.33898305084745767]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">33.90%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,650]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$650</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,37.85]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$37.85</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,51.35]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$51.35</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,13.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$13.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.35667107001321]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">35.67%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,700]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$700</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,40.3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$40.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,55.3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$55.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,15]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$15.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.37220843672456577]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">37.22%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,750]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$750</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,42.75]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$42.75</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,59.25]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$59.25</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,16.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$16.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.38596491228070173]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">38.60%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,800]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$800</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,45.2]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$45.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,63.2]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$63.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,18]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$18.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.3982300884955752]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">39.82%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,850]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$850</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,47.65]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$47.65</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,67.15]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$67.15</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,19.500000000000007]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$19.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.4092339979013643]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">40.92%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,900]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$900</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,50.1]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$50.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,71.1]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$71.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,20.999999999999993]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$21.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.41916167664670645]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">41.92%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,950]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$950</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,52.55]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$52.55</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,75.05]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$75.05</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,22.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$22.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.42816365366317793]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">42.82%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1000]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,000</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,55]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$55.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,79]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$79.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,24]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$24.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.43636363636363634]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">43.64%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1050]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,050</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,57.45]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$57.45</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,82.95]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$82.95</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,25.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$25.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.44386422976501305]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">44.39%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1100]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,100</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,59.9]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$59.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,86.9]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$86.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,27.000000000000007]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$27.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.4507512520868115]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">45.08%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1150]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,150</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,62.35]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$62.35</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,90.85]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$90.85</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,28.499999999999993]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$28.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.45709703287890924]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">45.71%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1200]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,200</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,64.8]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$64.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,94.8]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$94.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,30]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$30.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.46296296296296297]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">46.30%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1250]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,250</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,67.25]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$67.25</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,98.75]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$98.75</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,31.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$31.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.4684014869888476]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">46.84%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1300]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,300</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,69.7]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$69.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,102.7]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$102.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,33]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$33.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.4734576757532281]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">47.35%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1350]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,350</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,72.15]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$72.15</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,106.65]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$106.65</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,34.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$34.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.47817047817047814]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">47.82%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1400]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,400</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,74.6]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$74.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,110.6]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$110.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,36]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$36.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.482573726541555]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">48.26%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1450]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,450</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,77.05]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$77.05</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,114.55]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$114.55</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,37.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$37.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.4866969500324465]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">48.67%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1500]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,500</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,79.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$79.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,118.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$118.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,39]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$39.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.49056603773584906]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">49.06%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1550]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,550</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,80.45]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$80.45</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,122.45]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$122.45</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,42]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$42.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.5220633934120572]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">52.21%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1600]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,600</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,81.4]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$81.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,126.4]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$126.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,45]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$45.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.5528255528255528]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">55.28%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1650]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,650</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,82.35]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$82.35</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,130.35]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$130.35</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,48]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$48.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.5828779599271403]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">58.29%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1700]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,700</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,83.3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$83.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,134.3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$134.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,51.000000000000014]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$51.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.6122448979591839]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">61.22%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1750]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,750</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,84.25]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$84.25</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,138.25]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$138.25</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,54]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$54.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.6409495548961425]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">64.09%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1800]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,800</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,85.2]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$85.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,142.2]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$142.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,56.999999999999986]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$57.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.669014084507042]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">66.90%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1850]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,850</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,86.15]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$86.15</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,146.15]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$146.15</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,60]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$60.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.6964596633778293]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">69.65%</td>
+</tr>
+<tr style="background-color: #fff7ad;">
+<td style="text-align: right;" data-sheets-value="[null,3,null,1900]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,900</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,87.1]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$87.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,61.900000000000006]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$61.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.7106773823191734]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">71.07%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1950]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$1,950</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,88.05]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$88.05</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,60.95]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$60.95</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.6922203293583192]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">69.22%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2000]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,000</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,89]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$89.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,60]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$60.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.6741573033707865]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">67.42%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2100]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,100</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,90.9]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$90.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,58.099999999999994]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$58.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.639163916391639]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">63.92%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2200]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,200</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,92.8]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$92.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,56.2]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$56.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.6056034482758621]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">60.56%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2300]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,300</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,94.7]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$94.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,54.3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$54.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.573389651531151]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">57.34%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2400]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,400</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,96.6]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$96.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,52.400000000000006]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$52.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.5424430641821947]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">54.24%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2500]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,500</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,98.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$98.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,50.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$50.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.5126903553299492]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">51.27%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2600]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,600</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,100.4]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$100.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,48.599999999999994]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$48.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.4840637450199202]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">48.41%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2700]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,700</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,102.3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$102.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,46.7]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$46.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.4565004887585533]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">45.65%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2800]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,800</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,104.2]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$104.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,44.8]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$44.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.4299424184261036]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">42.99%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,2900]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$2,900</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,106.1]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$106.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,42.900000000000006]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$42.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.40433553251649396]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">40.43%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3000]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,000</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,108]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$108.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,41]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$41.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.37962962962962965]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">37.96%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3100]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,100</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,109.9]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$109.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,39.099999999999994]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$39.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.35577797998180155]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">35.58%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3200]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,200</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,111.8]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$111.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,37.2]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$37.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.33273703041144903]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">33.27%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3300]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,300</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,113.7]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$113.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,35.3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$35.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.31046613896218117]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">31.05%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3400]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,400</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,115.6]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$115.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,33.400000000000006]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$33.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.28892733564013845]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">28.89%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3500]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,500</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,117.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$117.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,31.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$31.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.2680851063829787]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">26.81%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3600]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,600</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,119.4]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$119.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,29.599999999999994]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$29.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.24790619765494132]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">24.79%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3700]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,700</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,121.3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$121.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,27.700000000000003]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$27.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.22835943940643036]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">22.84%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3800]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,800</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,123.2]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$123.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,25.799999999999997]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$25.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.2094155844155844]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">20.94%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3900]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$3,900</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,125.1]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$125.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,23.900000000000006]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$23.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.1910471622701839]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">19.10%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4000]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,000</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,127]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$127.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,22]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$22.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.1732283464566929]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">17.32%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4100]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,100</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,128.9]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$128.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,20.099999999999994]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$20.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.1559348332040341]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">15.59%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4200]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,200</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,130.8]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$130.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,18.19999999999999]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$18.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.13914373088685006]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">13.91%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4300]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,300</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,132.7]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$132.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,16.30000000000001]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$16.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.1228334589299172]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">12.28%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4400]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,400</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,134.6]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$134.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,14.400000000000006]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$14.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.10698365527488861]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">10.70%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4500]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,500</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,136.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$136.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,12.5]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$12.50</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.09157509157509157]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">9.16%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4600]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,600</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,138.4]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$138.40</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,10.599999999999994]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$10.60</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.0765895953757225]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">7.66%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4700]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,700</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,140.3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$140.30</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,8.699999999999989]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$8.70</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.06200997861724867]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">6.20%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4800]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,800</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,142.2]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$142.20</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,6.800000000000011]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$6.80</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.04781997187060487]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">4.78%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4900]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$4,900</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,144.1]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$144.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,4.900000000000006]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$4.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.03400416377515618]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">3.40%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,5000]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$5,000</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,146]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$146.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,3]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$3.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.02054794520547945]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">2.05%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,5100]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$5,100</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,147.9]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$147.90</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,1.0999999999999943]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$1.10</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0.0074374577417173375]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">0.74%</td>
+</tr>
+<tr>
+<td style="text-align: right;" data-sheets-value="[null,3,null,5200]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0&quot;,1]">$5,200</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,149]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]">$149.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,4,&quot;\&quot;$\&quot;#,##0.00&quot;]" data-sheets-formula="=R[0]C[-1]-R[0]C[-2]">$0.00</td>
+<td style="text-align: right;" data-sheets-value="[null,3,null,0]" data-sheets-numberformat="[null,3,&quot;0.00%&quot;,1]" data-sheets-formula="=R[0]C[-1]/R[0]C[-3]">0.00%</td>
+</tr>
+</tbody>
+</table>
+<h3 style="text-align: center;">Some more good news: product photos are free</h3>
+<p>Quality photos sell. Trade Me was penny pinching sellers by charging them for extra photos while loosing on potential sales. The new fees structure removes the 10c fee for every additional photo. It will be definitely beneficial for stores and professional sellers. Our <a href="/trademe-extension-for-magento/">TradeMe extension</a> already has the feature for adding all product photos to the auction.</p>
+<h2 style="text-align: center;">Trade Me fees vs eBay Australia fees</h2>
+<p><a target="_blank" href="http://pages.ebay.com.au/help/sell/fees.html">eBay fees are complicated</a>. Very complicated. In a simple form the <em>Trade Me vs eBay</em> comparison looks like this:</p>
+<ul>
+<li><strong>Casual sellers</strong>: 9.9% eBay <em>vs</em> 7.9% Trade Me</li>
+<li><strong>Professional sellers and stores</strong>: 4%, 6% and 7.5% for eBay <em>vs</em> 7.9% for Trade Me</li>
+</ul>
+<p>eBay&#8217;s grass is greener for professional sellers and stores on their unlimited package.</p>
+<blockquote><p>Check out our <a href="/articles/trade-me-busiest-time/">Trade Me traffic tracker</a> or hit us on Twitter <span class="DashboardProfileCard-screenname u-inlineBlock u-dir" dir="ltr"><a class="DashboardProfileCard-screennameLink u-linkComplex u-linkClean" href="https://twitter.com/mventorycom">@<span class="u-linkComplex-target">mventorycom</span></a></span> with your predictions on how this change will affect Trade Me sellers.</p></blockquote>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trade-me-fees-flat-7-9/">Flat 7.9% Trade Me fees change hits mid-range auctions</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Trade Me Busiest Time Tracker</title>
+		<link>http://mventory.com/articles/trade-me-busiest-time/</link>
+		<pubDate>Fri, 27 Nov 2015 22:48:27 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3432</guid>
+		<description><![CDATA[<p>What is the best day / time to list on Trade Me?
+<p>There is a bit of advice from all sorts of TradeMe Gurus and TradeMe themselves:</p>
+<p> <a href="http://www.trademe.co.nz/media/21752/YourGuideToSelling_eVersion.pdf" target="_blank">Guide &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trade-me-busiest-time/">Trade Me Busiest Time Tracker</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2>What is the best day / time to list on Trade Me?</h2>
+<p>There is a bit of advice from all sorts of TradeMe Gurus and TradeMe themselves:</p>
+<ul>
+<li><a href="http://www.trademe.co.nz/media/21752/YourGuideToSelling_eVersion.pdf" target="_blank">Guide for selling on Trade Me</a> by Trade Me</li>
+<li>An <a href="https://auctionitis.wordpress.com/2008/05/18/trademe-end-times/" target="_blank">old and unsubstantiated advice</a> from Auctionist, a defunct TradeMe tool</li>
+<li><a href="http://www.stuff.co.nz/business/money/7824439/How-to-get-the-most-from-online-sales" target="_blank">Tips and tricks from a few sellers</a> compiled by Stuff</li>
+</ul>
+<p>We decided to put the theory of <em>Trade Me Busiest Time</em> to test and track the actual numbers in real time.</p>
+<p>TradeMe publishes <a href="http://www.trademe.co.nz/About-trade-me/Site-stats" target="_blank">site stats</a> with the data refresh rate of few times per hour. We tap into that data via their API, store it in a database and present on this page.</p>
+<h2>Trade me stats</h2>
+<p>The data is compiled into a <a href="https://docs.google.com/spreadsheets/d/1PdirS7R4hea3G-A86c91xl-9yeLpTQm-7NFSluc7ulM/edit?usp=sharing" target="_blank">publicly available spreadsheet</a> in Google Docs.</p>
+<p>The graphs below give you a snapshot of real time and historical data.<br />
+<script src="https://www.google.com/jsapi"></script><br />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script><br />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sheetrock/1.0.0/dist/sheetrock.min.js"></script><br />
+<script src="/trademe-tracker-chart.js"></script><br />
+<script>// <![CDATA[
+google.load('visualization', '1', {packages: ['corechart', 'line']});google.setOnLoadCallback(showCharts);
+// ]]&gt;</script></p>
+<div id="active_listings_chart"></div>
+<div id="members_online_chart"></div>
+<h2>If you invest you must measure the results</h2>
+<p>Whether you invest your time in creating listings or your money in using <a href="/trademe-extension-for-magento/">tools that create those listings for you</a> how do you know that you get the best return on that investment?</p>
+<p><strong>Define metrics and measure.</strong></p>
+<p>TradeMe doesn&#8217;t make much data available to the public or sellers, except for some comparative metrics within TradeVine. We are filling the gap to help you sell more.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trade-me-busiest-time/">Trade Me Busiest Time Tracker</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>TradeMe Authorisation from Magento</title>
+		<link>http://mventory.com/help-2/server/trademe-authentication-from-magento/</link>
+		<pubDate>Wed, 28 Oct 2015 00:41:34 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3288</guid>
+		<description><![CDATA[<p>The TradeMe add-on you have installed on your website has to be authorised for use in your account before any TradeMe listings can be created. Sometimes TradeMe releases the authorisation &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/help-2/server/trademe-authentication-from-magento/">TradeMe Authorisation from Magento</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The TradeMe add-on you have installed on your website has to be authorised for use in your account before any TradeMe listings can be created. Sometimes TradeMe releases the authorisation tokens you need to authorise again.</p>
+<p>It only takes a minute or two.</p>
+<h2>1. Login to your TradeMe account</h2>
+<p>Make sure you are logged into both, Magento admin and your TadeMe account.</p>
+<h2>2. Open TradeMe tab</h2>
+<p>In the admin menu for Magento go to System / Configuration and open the TradeMe tab. The exact location of the tab depends on what else you have installed in your Magento and how those extensions position themselves.</p>
+<p><img class="aligncenter size-medium wp-image-3289" src="http://mventory.com/wp-content/uploads/2015/10/system-config-trademe-460x468.png" alt="system-config-trademe" width="460" height="468" srcset="http://mventory.com/wp-content/uploads/2015/10/system-config-trademe-460x468.png 460w, http://mventory.com/wp-content/uploads/2015/10/system-config-trademe-640x651.png 640w, http://mventory.com/wp-content/uploads/2015/10/system-config-trademe.png 692w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<h2>3. Change to Website scope</h2>
+<p>Select the website scope in the top left corner of the configuration page. You may have multiple websites configured, so select the one you need.</p>
+<p><img class="aligncenter size-medium wp-image-3293" src="http://mventory.com/wp-content/uploads/2015/10/website-scope-460x319.png" alt="website-scope" width="460" height="319" srcset="http://mventory.com/wp-content/uploads/2015/10/website-scope-460x319.png 460w, http://mventory.com/wp-content/uploads/2015/10/website-scope-640x443.png 640w, http://mventory.com/wp-content/uploads/2015/10/website-scope.png 995w" sizes="(max-width: 460px) 100vw, 460px" /></p>
+<p>&nbsp;</p>
+<h2>4. Open the TradeMe account tab</h2>
+<p><a href="http://mventory.com/wp-content/uploads/2015/10/authorise-trademe.png"><img class="size-medium wp-image-3292 alignleft" src="http://mventory.com/wp-content/uploads/2015/10/authorise-trademe-460x271.png" alt="authorise-trademe" width="460" height="271" srcset="http://mventory.com/wp-content/uploads/2015/10/authorise-trademe-460x271.png 460w, http://mventory.com/wp-content/uploads/2015/10/authorise-trademe-640x377.png 640w, http://mventory.com/wp-content/uploads/2015/10/authorise-trademe.png 758w" sizes="(max-width: 460px) 100vw, 460px" /></a>The tab may be collapsed and you may have multiple tabs if multiple accounts are configured. Choose the one you need. Remember, they are all linked to different TradeMe accounts.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>5. Authorise</h2>
+<p>Press on Authorise button and then confirm the access on TradeMe screen. You will be redirected to TradeMe website and then back to Magento admin. Remember to be logged into your TradeMe account before starting the authorisation process.</p>
+<p>If you logged in and TradeMe asks you to log in again, the chance is you are trying to authorise the wrong account. You should see ALLOW / DENY options straight after pressing AUTHORISE button.</p>
+<p>TradeMe may completely skip the authisation screen and send you back to Magento admin with a confirmation message if you authorised before.</p>
+<h2>View a demo video</h2>
+<p><iframe src="//fast.wistia.net/embed/iframe/n3vok68l6g" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="460" height="307"></iframe><script src="//fast.wistia.net/assets/external/E-v1.js" async></script></p>
+
+<script charset="ISO-8859-1" src="http://fast.wistia.com/static/concat/iframe-api-v1.js"></script><p>The post <a rel="nofollow" href="http://mventory.com/help-2/server/trademe-authentication-from-magento/">TradeMe Authorisation from Magento</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>TradeMe Category Listings &#8211; is it worth paying for images?</title>
+		<link>http://mventory.com/articles/trademe-category-images/</link>
+		<pubDate>Tue, 06 Oct 2015 01:37:02 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3205</guid>
+		<description><![CDATA[<p>TradeMe charges some categories an extra 55c for displaying product images in search and category views. Is it worth paying? We ran a small scale experiment.</p>
+<p> Brief History of TradeMe &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trademe-category-images/">TradeMe Category Listings &#8211; is it worth paying for images?</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>TradeMe charges some categories an extra 55c for displaying product images in search and category views. Is it worth paying? We ran a small scale experiment.</p>
+<h2>Brief History of TradeMe Category Fees</h2>
+<p><img class="alignleft wp-image-3209" src="http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees-640x640.jpg" alt="brief-history-of-trade-me-fees" width="164" height="164" srcset="http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees-135x135.jpg 135w, http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees-460x460.jpg 460w, http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees-640x640.jpg 640w, http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees.jpg 800w" sizes="(max-width: 164px) 100vw, 164px" />Most General Goods categories on TradeMe get free category listings now. When they started it was always the case, then it was an extra fee, then they probably realised that they were shooting themselves in the foot by not letting buyers see the products.</p>
+<p>If you are a regular TradeMe user you have probably noticed that it&#8217;s just too much hassle to click on every listing just to see what it is.</p>
+<p>The change back to free category listings started about a year ago, one category at a time. There were no public announcements or blog posts on the matter. They just turned them on one a time.</p>
+<h2>Test TradeMe Category</h2>
+<p><a href="http://www.trademe.co.nz/motors/motorbikes/helmets-clothing-footwear/jacket-pant-sets"><img class="size-large wp-image-3206 alignright" src="http://mventory.com/wp-content/uploads/2015/10/trademe-category-images-640x444.png" alt="trademe-category-images" width="460" height="319" srcset="http://mventory.com/wp-content/uploads/2015/10/trademe-category-images-460x319.png 460w, http://mventory.com/wp-content/uploads/2015/10/trademe-category-images-640x444.png 640w, http://mventory.com/wp-content/uploads/2015/10/trademe-category-images.png 814w" sizes="(max-width: 460px) 100vw, 460px" /></a><br />
+We picked <a target="_blank" href="http://www.trademe.co.nz/motors/motorbikes/helmets-clothing-footwear">Motorbikes Clothing and Apparel</a> as our test category. It is one of the remaining categories where TradeMe charges 55c per category photo. One of our good customers is using it actively without Magento/TradeMe connector, so it was an easy test.</p>
+<p>Listing configuration was updated every day to alternate between two modes: with and without category images. In fact, switching over was as simple as changing one column in the spreadsheet from 1 to 0 and back to 1.</p>
+<h2>Category Images Test Results</h2>
+<p>We had more data for no image listings, which theoretically skewed the results, but after re-running it on a smaller scale we got the same distribution, so here it is:</p>
+<table>
+<tbody>
+<tr>
+<td></td>
+<td>with category images</td>
+<td>without category images</td>
+</tr>
+<tr>
+<td>Listed:</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">416</td>
+</tr>
+<tr>
+<td>Total views:</td>
+<td style="text-align: right;">1712</td>
+<td style="text-align: right;">8153</td>
+</tr>
+<tr>
+<td>Average views per product:</td>
+<td style="text-align: right;">22.53</td>
+<td style="text-align: right;">19.55</td>
+</tr>
+<tr>
+<td>Cost per listing*:</td>
+<td style="text-align: right;">65c</td>
+<td style="text-align: right;">10c</td>
+</tr>
+<tr>
+<td>Cost per view:</td>
+<td style="text-align: right;">$0.029</td>
+<td style="text-align: right;">$0.0051</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: right;">*  &#8211; <em>cost per listing is based on 10c for high volume listings and 55c for the category image</em></p>
+<p><strong>Products with category images got only 15% more views and cost 5.66 times more.</strong></p>
+<p>If we ran the other 416 products with category images it would cost $270 vs $42 without.</p>
+<h2>Conclusion</h2>
+<p>It is not worth paying the extra 55c fee for category images in categories where the search starts with the specification of the product, not a vague concept.</p>
+<p>For example, a dress is a very visual item. It is hard to describe using just 2-3 words in a search box.</p>
+<p>Something like a helmet or motorcycle gloves can be found using the brand, make or size.</p>
+<p>Don&#8217;t take this as gospel. Try both options and see the difference for your type of products.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trademe-category-images/">TradeMe Category Listings &#8211; is it worth paying for images?</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>KiwiVelo is responsive, in sync and on TradeMe!</title>
+		<link>http://mventory.com/articles/towersystems-magento-trademe/</link>
+		<pubDate>Mon, 14 Sep 2015 02:26:23 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3168</guid>
+		<description><![CDATA[<p>If you are serious biker in New Zealand you surely heard of <a target="_blank" href="http://kiwivelo.co.nz">KiwiVelo</a>. We&#8217;ve just reached a bit of a milestone with their website &#8211; they started listing &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/towersystems-magento-trademe/">KiwiVelo is responsive, in sync and on TradeMe!</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>If you are serious biker in New Zealand you surely heard of <a target="_blank" href="http://kiwivelo.co.nz">KiwiVelo</a>. We&#8217;ve just reached a bit of a milestone with their website &#8211; they started listing on <a href="http://www.trademe.co.nz/Members/Listings.aspx?member=5574817" target="_blank">TradeMe</a> and got their first sale!</p>
+<p><img class="alignleft  wp-image-3185" src="http://mventory.com/wp-content/uploads/2015/09/wpid-20150914_165007_hdr-640x480.jpg" alt="KiwiVelo, Takapuna" width="399" height="299" srcset="http://mventory.com/wp-content/uploads/2015/09/wpid-20150914_165007_hdr-460x345.jpg 460w, http://mventory.com/wp-content/uploads/2015/09/wpid-20150914_165007_hdr-640x480.jpg 640w" sizes="(max-width: 399px) 100vw, 399px" /></p>
+<h2>Tower Systems PoS &#8211; Magento &#8211; TradeMe</h2>
+<p>KiwiVelo started actively selling online about a year ago by taking over a competing website. It was working up to a point. They needed growth.</p>
+<p>The catalyst for change was Google&#8217;s deadline back in April 2015 for website to go responsive or disappear from their index.</p>
+<h4>What we did there:</h4>
+<ul>
+<li>Upgraded Magento to the latest version</li>
+<li>Made Magento RWD theme look exactly as their old theme, but made it responsive (mammoth task, never again!)</li>
+<li>Integrated Magento with <a target="_blank" href="http://www.towersystems.com.au">Tower Systems PoS</a> for bike shops</li>
+<li>Connected Magento to TradeMe using our <a href="/trademe-extension-for-magento/">TradeMe extension</a></li>
+<li>Fixed 1,000 little bugs and solved another 1,000 nagging problems we encountered along the way</li>
+<li>Patched the site a few times</li>
+<li>Survived a hacking attempt</li>
+</ul>
+<h4>How it works:</h4>
+<ul>
+<li>Magento website is in sync with Tower Systems PoS</li>
+<li>Product details are loaded from manufacturer websites where possible or photographed with our <a target="_blank" href="https://play.google.com/store/apps/developer?id=mVentory">Android App</a>.</li>
+<li>TradeMe listings are created automatically from products in Magento</li>
+</ul>
+<p>It looks great, it works and it sells. Go KiwiVelo!</p>
+
+<a href='http://mventory.com/articles/towersystems-magento-trademe/attachment/kiwivelo-magento-full/'><img width="318" height="690" src="http://mventory.com/wp-content/uploads/2015/09/kiwivelo-magento-full-318x690.png" class="attachment-medium size-medium" alt="Full screen size" /></a>
+<a href='http://mventory.com/articles/towersystems-magento-trademe/attachment/kiwivelo-magento-narrow/'><img width="89" height="690" src="http://mventory.com/wp-content/uploads/2015/09/kiwivelo-magento-narrow-89x690.png" class="attachment-medium size-medium" alt="Responsive homepage" /></a>
+<a href='http://mventory.com/articles/towersystems-magento-trademe/attachment/kiwivelo-product-page/'><img width="460" height="583" src="http://mventory.com/wp-content/uploads/2015/09/kiwivelo-product-page-460x583.png" class="attachment-medium size-medium" alt="Full screen product page" srcset="http://mventory.com/wp-content/uploads/2015/09/kiwivelo-product-page-460x583.png 460w, http://mventory.com/wp-content/uploads/2015/09/kiwivelo-product-page-640x811.png 640w, http://mventory.com/wp-content/uploads/2015/09/kiwivelo-product-page.png 1423w" sizes="(max-width: 460px) 100vw, 460px" /></a>
+<a href='http://mventory.com/articles/towersystems-magento-trademe/attachment/kiwivelo-product-page-responsive/'><img width="114" height="690" src="http://mventory.com/wp-content/uploads/2015/09/kiwivelo-product-page-responsive-114x690.png" class="attachment-medium size-medium" alt="Responsive product page" /></a>
+
+<p>&nbsp;</p>
+<p><a href="http://mventory.com/wp-content/uploads/2015/09/KiwiVelo-TradeMe.png"><img class="alignleft size-medium wp-image-3177" src="http://mventory.com/wp-content/uploads/2015/09/KiwiVelo-TradeMe-460x283.png" alt="KiwiVelo-TradeMe" width="460" height="283" srcset="http://mventory.com/wp-content/uploads/2015/09/KiwiVelo-TradeMe-460x283.png 460w, http://mventory.com/wp-content/uploads/2015/09/KiwiVelo-TradeMe-640x393.png 640w, http://mventory.com/wp-content/uploads/2015/09/KiwiVelo-TradeMe.png 830w" sizes="(max-width: 460px) 100vw, 460px" /></a>There are still a few wrinkles to iron out, but they have close to 100 products rolling over on TradeMe with zero effort and complete automation.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/towersystems-magento-trademe/">KiwiVelo is responsive, in sync and on TradeMe!</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>What do people search for on TradeMe?</title>
+		<link>http://mventory.com/articles/what-do-people-search-for-on-trademe/</link>
+		<pubDate>Fri, 24 Jul 2015 05:28:04 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2996</guid>
+		<description><![CDATA[<p>Optimising your TradeMe listings for search increases sales. The big question is what to optimise for.</p>
+<p>There is a simple, but rather time consuming way of finding out.</p>
+<p> Look at &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/what-do-people-search-for-on-trademe/">What do people search for on TradeMe?</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Optimising your TradeMe listings for search increases sales. The big question is what to optimise for.</p>
+<p>There is a simple, but rather time consuming way of finding out.</p>
+<ol>
+<li>Look at your category and note the names of products others use.</li>
+<li>Start slowly typing commonly used words in the search box and note the list of suggestions.</li>
+</ol>
+<p>We&#8217;ll use <em>Microsoft Surface Pro</em> example from an <a href="http://mventory.com/?p=2968">earlier post</a>.</p>
+<h4>First we&#8217;ll do a broad search term</h4>
+<p><img class="alignnone size-full wp-image-2999" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-category.png" alt="trademe-suggestions-category" width="519" height="389" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-category-460x345.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-category.png 519w" sizes="(max-width: 519px) 100vw, 519px" /></p>
+<p>You can tell that<em> Surface Pro 3</em> is pretty hot and <em>Surface Pro 1</em> is not so.</p>
+<h4>A more specific search starting with <em>microsoft</em></h4>
+<p><img class="alignnone size-full wp-image-3000" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-ms.png" alt="trademe-suggestions-ms" width="505" height="333" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-ms-460x303.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-ms.png 505w" sizes="(max-width: 505px) 100vw, 505px" /></p>
+<p>tells us that there are more searches for their tablet than for their software on TradeMe.</p>
+<h4>And now an even more specific search term</h4>
+<p><img class="alignnone size-full wp-image-3001" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mss.png" alt="trademe-suggestions-mss" width="520" height="226" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mss-460x200.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mss.png 520w" sizes="(max-width: 520px) 100vw, 520px" /></p>
+<p>So given these 2 results you either need to decide on <em>Microsoft Surface Pro 3</em> or <em>Surface Pro 3</em> as the beginning of your listing title, but how do you know which one is more popular? Read our post on <a href="/?p=3004">TradeMe A/B testing</a>.</p>
+<h4>Weeding out outliers</h4>
+<p>It&#8217;s not hard to avoid seemingly intuitive, but not very popular searches by simply typing them in and checking the suggestions.</p>
+<p>If we were selling <em>Microsoft Surface Keyboards</em> on TradeMe we should start the title with <em>Surface Keyboard</em></p>
+<p><img class="alignnone size-full wp-image-3003" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-sk.png" alt="trademe-suggestions-sk" width="473" height="131" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-sk-460x127.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-sk.png 473w" sizes="(max-width: 473px) 100vw, 473px" /></p>
+<p>because searching for <em>Microsoft Surface Keyboard</em> gives no suggestions, so the number of searches is probably minimal.</p>
+<p><img class="alignnone size-full wp-image-3002" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mssk.png" alt="trademe-suggestions-mssk" width="505" height="125" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mssk-460x114.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mssk.png 505w" sizes="(max-width: 505px) 100vw, 505px" /></p>
+<h4>Deciding on the best TradeMe listing title</h4>
+<p>The proof of the pudding is in eating it.</p>
+<p>We found a list of common searches using TradeMe suggestions. Now let&#8217;s learn how to <a href="http://mventory.com/?p=3004">put these findings to test</a>.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/what-do-people-search-for-on-trademe/">What do people search for on TradeMe?</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>TradeMe Search Optimisation</title>
+		<link>http://mventory.com/articles/trademe-search-optimisation/</link>
+		<pubDate>Fri, 24 Jul 2015 00:32:06 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2968</guid>
+		<description><![CDATA[<p>Being on top of <a target="_blank" href="http://trademe.co.nz">Trade Me</a> search makes a big difference. A listing that comes up for popular searches can get twice as many views.</p>
+<p>What really matters &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trademe-search-optimisation/">TradeMe Search Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Being on top of <a target="_blank" href="http://trademe.co.nz">Trade Me</a> search makes a big difference. A listing that comes up for popular searches can get twice as many views.</p>
+<p>What really matters for search is the product title.</p>
+<p>For example, I want to find a Microsoft Surface Pro 3 tablet. I type in &#8220;<a target="_blank" href="http://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=surface+pro&amp;rptpath=2-&amp;type=Search&amp;searchType=2&amp;generalSearch_keypresses=11&amp;generalSearch_suggested=0&amp;generalSearch_suggestedCategory=">surface pro</a>&#8221; as many other shoppers would &#8230;</p>
+<p><img class="alignnone size-full" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-suggestions3.png" alt="null" /></p>
+<p>&nbsp;</p>
+<p>&#8230; and get 551 listings back from TradeMe. Just like with Google Search, very few people look past page one. So here are my results &#8230;<br />
+<img class="alignnone size-full" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-surface-pro.png" alt="null" /></p>
+<p>What if I search by a slightly different name like &#8220;<a target="_blank" href="http://www.trademe.co.nz/Browse/SearchResults.aspx?sort_order=&amp;searchString=microsoft+surface&amp;rptpath=2-&amp;type=Search&amp;searchType=2&amp;generalSearch_keypresses=1&amp;generalSearch_suggested=0&amp;generalSearch_suggestedCategory=">microsoft surface pro</a>&#8220;?</p>
+<p><img class="alignnone size-full" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-suggestions21.png" alt="" /></p>
+<p>&nbsp;</p>
+<p>Now I get fewer results back and they are quite different from the previous search.<br />
+<img class="alignnone size-full" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-microsoft-surface-pro.png" alt="" /></p>
+<p>&nbsp;</p>
+<h4>How TradeMe search works</h4>
+<p>TradeMe search algorithm is completely proprietary, but we made an observation about these search priorities:</p>
+<ol>
+<li>The default sorting order is &#8220;Best match&#8221;</li>
+<li>The title starts with the search term. E.g. <em>Surface pro 3 i5 8G and 256gb</em> for <em>surface pro</em> and  <em>Microsoft Surface Pro 3 &#8211; 256GB 8GB Ram &#8211; i5  </em>for <em>microsoft surface. </em></li>
+<li>The title contains the exact search term. E.g.  <em>As New Microsoft Surface Pro 3 As New Microsoft Surface Pro 3</em> for <em>microsoft surface. </em></li>
+<li>The title contains all the words from the search term in random order E.g. <em>surface screen guard microsoft tablet Professional</em> for <em>microsoft surface. </em></li>
+<li>The title contains some of the words from the search term E.g. <em>Leather Bluetooth Keyboard Case Microsoft Pro 3</em> for <em>microsoft surface.</em></li>
+</ol>
+<p>And doing this &#8230;</p>
+<p><img class="alignnone size-full wp-image-2994" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-keywords.png" alt="trademe-search-keywords" width="560" height="262" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-search-keywords-460x215.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-search-keywords.png 560w" sizes="(max-width: 560px) 100vw, 560px" /></p>
+<p>is a waste of valuable listing space. If the keywords are important they should be part of the normal product description. TradeMe gives the contents of the product description much lower score compared to the title.</p>
+<h4>Automated TradeMe Search Optimisation</h4>
+<p>The good news is that our <a href="/trademe-extension-for-magento/">TradeMe extension for Magento</a> automates generation of optimal listing titles. More on this in <a href="/?p=2970">another post</a>.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trademe-search-optimisation/">TradeMe Search Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Automated TradeMe Title Optimisation</title>
+		<link>http://mventory.com/articles/automated-trademe-title-optimisation/</link>
+		<pubDate>Fri, 24 Jul 2015 00:04:44 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[Automation]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2970</guid>
+		<description><![CDATA[<p>I explained in <a href="/?p=2968">another post</a> the role listing titles play in TradeMe search. Basically, <strong>a well optimised title can double the number of views on the listing</strong>. Think how &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/automated-trademe-title-optimisation/">Automated TradeMe Title Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>I explained in <a href="/?p=2968">another post</a> the role listing titles play in TradeMe search. Basically, <strong>a well optimised title can double the number of views on the listing</strong>. Think how many more sales you can get from that little number.</p>
+<p>Product names on an e-commerce website are optimised for Google and user experience. They are contextual to the area of the website. It works fine there.</p>
+<p><img class="alignnone size-full wp-image-3015" src="http://mventory.com/wp-content/uploads/2015/07/magento-product-name.png" alt="magento-product- name" width="561" height="397" srcset="http://mventory.com/wp-content/uploads/2015/07/magento-product-name-460x326.png 460w, http://mventory.com/wp-content/uploads/2015/07/magento-product-name.png 561w" sizes="(max-width: 561px) 100vw, 561px" /></p>
+<p>A product title like &#8220;<em>KZOAO Allure Freestanding Stone Bath * 1500L x 750W x 580Hmm</em>&#8221; is informative and easy to understand, but it won&#8217;t perform well in TradeMe search. Unless you sell a high affinity brand like Nike it is counter productive to start your TradeMe listing title with the brand name.</p>
+<p>Try renaming &#8220;<em>KZOAO Allure Freestanding Stone Bath * 1500L x 750W x 580Hmm</em>&#8221; to &#8220;<em>Freestanding bath 1500mm Stone</em>&#8221;</p>
+<h4>Listing title optimisation</h4>
+<p>Our <a href="/trademe-extension-for-magento/">TradeMe extension</a> can optimize the titles on the fly for one or more variants.</p>
+<p>For example, if the product title on your website is &#8220;<em>KZOAO Allure Freestanding Stone Bath * 1500L x 750W x 580Hmm</em>&#8221;</p>
+<p>the TradeMe listing variations could be:</p>
+<ul>
+<li>Freestanding Stone Bath * 1500L x 750W x 580Hmm</li>
+<li>Bath Freestanding 1500L</li>
+<li>Freestanding Bath * 1500L x 750W x 580Hmm</li>
+</ul>
+<p>These listings can be on TradeMe at the same time or use sequentially &#8211; as one expires another one is listed with a different name. This may sound counter-intuitive to list the same product more than once, but it works and helps to drive more sales.</p>
+<h4>TradeMe views calculator</h4>
+<p>We created a simple Google Spreadsheet to demonstrate the value in adding additional name variations.<br />
+You can copy it from our <a target="_blank" href="https://drive.google.com/folderview?id=0B10XfYAM_N_hfktXZkVNV3JSQ1lxdGlfbUp2VFNQaGx1ZkpBMlVDTWNVaU1oQTY4VFg1RXM&amp;usp=sharing">e-commerce calculators folder</a> to play with the numbers yourself.</p>
+<p>&nbsp;</p>
+<p><iframe width="98%" height="650px" src="https://docs.google.com/spreadsheets/d/1oKsJuvIIZtmONz5bObkgm7Of2O-3Z_3M3yr0LblDBs0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe><br />
+&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/automated-trademe-title-optimisation/">Automated TradeMe Title Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:20:00 by W3 Total Cache -->

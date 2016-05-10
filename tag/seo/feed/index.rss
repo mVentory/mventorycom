@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SEO &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/tag/seo/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>What do people search for on TradeMe?</title>
+		<link>http://mventory.com/articles/what-do-people-search-for-on-trademe/</link>
+		<pubDate>Fri, 24 Jul 2015 05:28:04 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2996</guid>
+		<description><![CDATA[<p>Optimising your TradeMe listings for search increases sales. The big question is what to optimise for.</p>
+<p>There is a simple, but rather time consuming way of finding out.</p>
+<p> Look at &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/what-do-people-search-for-on-trademe/">What do people search for on TradeMe?</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Optimising your TradeMe listings for search increases sales. The big question is what to optimise for.</p>
+<p>There is a simple, but rather time consuming way of finding out.</p>
+<ol>
+<li>Look at your category and note the names of products others use.</li>
+<li>Start slowly typing commonly used words in the search box and note the list of suggestions.</li>
+</ol>
+<p>We&#8217;ll use <em>Microsoft Surface Pro</em> example from an <a href="http://mventory.com/?p=2968">earlier post</a>.</p>
+<h4>First we&#8217;ll do a broad search term</h4>
+<p><img class="alignnone size-full wp-image-2999" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-category.png" alt="trademe-suggestions-category" width="519" height="389" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-category-460x345.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-category.png 519w" sizes="(max-width: 519px) 100vw, 519px" /></p>
+<p>You can tell that<em> Surface Pro 3</em> is pretty hot and <em>Surface Pro 1</em> is not so.</p>
+<h4>A more specific search starting with <em>microsoft</em></h4>
+<p><img class="alignnone size-full wp-image-3000" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-ms.png" alt="trademe-suggestions-ms" width="505" height="333" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-ms-460x303.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-ms.png 505w" sizes="(max-width: 505px) 100vw, 505px" /></p>
+<p>tells us that there are more searches for their tablet than for their software on TradeMe.</p>
+<h4>And now an even more specific search term</h4>
+<p><img class="alignnone size-full wp-image-3001" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mss.png" alt="trademe-suggestions-mss" width="520" height="226" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mss-460x200.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mss.png 520w" sizes="(max-width: 520px) 100vw, 520px" /></p>
+<p>So given these 2 results you either need to decide on <em>Microsoft Surface Pro 3</em> or <em>Surface Pro 3</em> as the beginning of your listing title, but how do you know which one is more popular? Read our post on <a href="/?p=3004">TradeMe A/B testing</a>.</p>
+<h4>Weeding out outliers</h4>
+<p>It&#8217;s not hard to avoid seemingly intuitive, but not very popular searches by simply typing them in and checking the suggestions.</p>
+<p>If we were selling <em>Microsoft Surface Keyboards</em> on TradeMe we should start the title with <em>Surface Keyboard</em></p>
+<p><img class="alignnone size-full wp-image-3003" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-sk.png" alt="trademe-suggestions-sk" width="473" height="131" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-sk-460x127.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-sk.png 473w" sizes="(max-width: 473px) 100vw, 473px" /></p>
+<p>because searching for <em>Microsoft Surface Keyboard</em> gives no suggestions, so the number of searches is probably minimal.</p>
+<p><img class="alignnone size-full wp-image-3002" src="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mssk.png" alt="trademe-suggestions-mssk" width="505" height="125" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mssk-460x114.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-suggestions-mssk.png 505w" sizes="(max-width: 505px) 100vw, 505px" /></p>
+<h4>Deciding on the best TradeMe listing title</h4>
+<p>The proof of the pudding is in eating it.</p>
+<p>We found a list of common searches using TradeMe suggestions. Now let&#8217;s learn how to <a href="http://mventory.com/?p=3004">put these findings to test</a>.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/what-do-people-search-for-on-trademe/">What do people search for on TradeMe?</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>TradeMe Search Optimisation</title>
+		<link>http://mventory.com/articles/trademe-search-optimisation/</link>
+		<pubDate>Fri, 24 Jul 2015 00:32:06 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2968</guid>
+		<description><![CDATA[<p>Being on top of <a target="_blank" href="http://trademe.co.nz">Trade Me</a> search makes a big difference. A listing that comes up for popular searches can get twice as many views.</p>
+<p>What really matters &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trademe-search-optimisation/">TradeMe Search Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Being on top of <a target="_blank" href="http://trademe.co.nz">Trade Me</a> search makes a big difference. A listing that comes up for popular searches can get twice as many views.</p>
+<p>What really matters for search is the product title.</p>
+<p>For example, I want to find a Microsoft Surface Pro 3 tablet. I type in &#8220;<a target="_blank" href="http://www.trademe.co.nz/Browse/SearchResults.aspx?searchString=surface+pro&amp;rptpath=2-&amp;type=Search&amp;searchType=2&amp;generalSearch_keypresses=11&amp;generalSearch_suggested=0&amp;generalSearch_suggestedCategory=">surface pro</a>&#8221; as many other shoppers would &#8230;</p>
+<p><img class="alignnone size-full" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-suggestions3.png" alt="null" /></p>
+<p>&nbsp;</p>
+<p>&#8230; and get 551 listings back from TradeMe. Just like with Google Search, very few people look past page one. So here are my results &#8230;<br />
+<img class="alignnone size-full" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-surface-pro.png" alt="null" /></p>
+<p>What if I search by a slightly different name like &#8220;<a target="_blank" href="http://www.trademe.co.nz/Browse/SearchResults.aspx?sort_order=&amp;searchString=microsoft+surface&amp;rptpath=2-&amp;type=Search&amp;searchType=2&amp;generalSearch_keypresses=1&amp;generalSearch_suggested=0&amp;generalSearch_suggestedCategory=">microsoft surface pro</a>&#8220;?</p>
+<p><img class="alignnone size-full" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-suggestions21.png" alt="" /></p>
+<p>&nbsp;</p>
+<p>Now I get fewer results back and they are quite different from the previous search.<br />
+<img class="alignnone size-full" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-microsoft-surface-pro.png" alt="" /></p>
+<p>&nbsp;</p>
+<h4>How TradeMe search works</h4>
+<p>TradeMe search algorithm is completely proprietary, but we made an observation about these search priorities:</p>
+<ol>
+<li>The default sorting order is &#8220;Best match&#8221;</li>
+<li>The title starts with the search term. E.g. <em>Surface pro 3 i5 8G and 256gb</em> for <em>surface pro</em> and  <em>Microsoft Surface Pro 3 &#8211; 256GB 8GB Ram &#8211; i5  </em>for <em>microsoft surface. </em></li>
+<li>The title contains the exact search term. E.g.  <em>As New Microsoft Surface Pro 3 As New Microsoft Surface Pro 3</em> for <em>microsoft surface. </em></li>
+<li>The title contains all the words from the search term in random order E.g. <em>surface screen guard microsoft tablet Professional</em> for <em>microsoft surface. </em></li>
+<li>The title contains some of the words from the search term E.g. <em>Leather Bluetooth Keyboard Case Microsoft Pro 3</em> for <em>microsoft surface.</em></li>
+</ol>
+<p>And doing this &#8230;</p>
+<p><img class="alignnone size-full wp-image-2994" src="http://mventory.com/wp-content/uploads/2015/07/trademe-search-keywords.png" alt="trademe-search-keywords" width="560" height="262" srcset="http://mventory.com/wp-content/uploads/2015/07/trademe-search-keywords-460x215.png 460w, http://mventory.com/wp-content/uploads/2015/07/trademe-search-keywords.png 560w" sizes="(max-width: 560px) 100vw, 560px" /></p>
+<p>is a waste of valuable listing space. If the keywords are important they should be part of the normal product description. TradeMe gives the contents of the product description much lower score compared to the title.</p>
+<h4>Automated TradeMe Search Optimisation</h4>
+<p>The good news is that our <a href="/trademe-extension-for-magento/">TradeMe extension for Magento</a> automates generation of optimal listing titles. More on this in <a href="/?p=2970">another post</a>.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trademe-search-optimisation/">TradeMe Search Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Automated TradeMe Title Optimisation</title>
+		<link>http://mventory.com/articles/automated-trademe-title-optimisation/</link>
+		<pubDate>Fri, 24 Jul 2015 00:04:44 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[Automation]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=2970</guid>
+		<description><![CDATA[<p>I explained in <a href="/?p=2968">another post</a> the role listing titles play in TradeMe search. Basically, <strong>a well optimised title can double the number of views on the listing</strong>. Think how &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/automated-trademe-title-optimisation/">Automated TradeMe Title Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>I explained in <a href="/?p=2968">another post</a> the role listing titles play in TradeMe search. Basically, <strong>a well optimised title can double the number of views on the listing</strong>. Think how many more sales you can get from that little number.</p>
+<p>Product names on an e-commerce website are optimised for Google and user experience. They are contextual to the area of the website. It works fine there.</p>
+<p><img class="alignnone size-full wp-image-3015" src="http://mventory.com/wp-content/uploads/2015/07/magento-product-name.png" alt="magento-product- name" width="561" height="397" srcset="http://mventory.com/wp-content/uploads/2015/07/magento-product-name-460x326.png 460w, http://mventory.com/wp-content/uploads/2015/07/magento-product-name.png 561w" sizes="(max-width: 561px) 100vw, 561px" /></p>
+<p>A product title like &#8220;<em>KZOAO Allure Freestanding Stone Bath * 1500L x 750W x 580Hmm</em>&#8221; is informative and easy to understand, but it won&#8217;t perform well in TradeMe search. Unless you sell a high affinity brand like Nike it is counter productive to start your TradeMe listing title with the brand name.</p>
+<p>Try renaming &#8220;<em>KZOAO Allure Freestanding Stone Bath * 1500L x 750W x 580Hmm</em>&#8221; to &#8220;<em>Freestanding bath 1500mm Stone</em>&#8221;</p>
+<h4>Listing title optimisation</h4>
+<p>Our <a href="/trademe-extension-for-magento/">TradeMe extension</a> can optimize the titles on the fly for one or more variants.</p>
+<p>For example, if the product title on your website is &#8220;<em>KZOAO Allure Freestanding Stone Bath * 1500L x 750W x 580Hmm</em>&#8221;</p>
+<p>the TradeMe listing variations could be:</p>
+<ul>
+<li>Freestanding Stone Bath * 1500L x 750W x 580Hmm</li>
+<li>Bath Freestanding 1500L</li>
+<li>Freestanding Bath * 1500L x 750W x 580Hmm</li>
+</ul>
+<p>These listings can be on TradeMe at the same time or use sequentially &#8211; as one expires another one is listed with a different name. This may sound counter-intuitive to list the same product more than once, but it works and helps to drive more sales.</p>
+<h4>TradeMe views calculator</h4>
+<p>We created a simple Google Spreadsheet to demonstrate the value in adding additional name variations.<br />
+You can copy it from our <a target="_blank" href="https://drive.google.com/folderview?id=0B10XfYAM_N_hfktXZkVNV3JSQ1lxdGlfbUp2VFNQaGx1ZkpBMlVDTWNVaU1oQTY4VFg1RXM&amp;usp=sharing">e-commerce calculators folder</a> to play with the numbers yourself.</p>
+<p>&nbsp;</p>
+<p><iframe width="98%" height="650px" src="https://docs.google.com/spreadsheets/d/1oKsJuvIIZtmONz5bObkgm7Of2O-3Z_3M3yr0LblDBs0/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe><br />
+&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/automated-trademe-title-optimisation/">Automated TradeMe Title Optimisation</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:20:23 by W3 Total Cache -->

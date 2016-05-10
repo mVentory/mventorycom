@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>security &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/tag/security/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Post-mortem of a WordPress hack</title>
+		<link>http://mventory.com/articles/hardening-wordpress-installation/</link>
+		<pubDate>Wed, 17 Feb 2016 22:07:49 +0000</pubDate>
+		<dc:creator><![CDATA[anatoly]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[security]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3943</guid>
+		<description><![CDATA[<p>Few days ago we had to help a good e-commerce customer running on our <a href="/magento-package-features/">Magento platform</a> with a few hijacked WordPress sites. A redirection code was embedded into the &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/hardening-wordpress-installation/">Post-mortem of a WordPress hack</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Few days ago we had to help a good e-commerce customer running on our <a href="/magento-package-features/">Magento platform</a> with a few hijacked WordPress sites. A redirection code was embedded into the theme and visitors were sent to a random gambling site. It wasn&#8217;t a good look.<img class=" wp-image-3960 alignleft" src="/wp-content/uploads/2016/02/wp-hacked-460x345.jpg" alt="wp-hacked" width="281" height="211" srcset="http://mventory.com/wp-content/uploads/2016/02/wp-hacked-460x345.jpg 460w, http://mventory.com/wp-content/uploads/2016/02/wp-hacked-768x576.jpg 768w, http://mventory.com/wp-content/uploads/2016/02/wp-hacked-640x480.jpg 640w, http://mventory.com/wp-content/uploads/2016/02/wp-hacked.jpg 1020w" sizes="(max-width: 281px) 100vw, 281px" /></p>
+<p>To protect the site from other known and new attacks in the future we upgraded it to the latest WordPress version, tightened access rights to WordPress files and made the database read-only.</p>
+<p>In the <a href="#attack-result">first part</a> of this post we will show what files attackers modified in our WP installation and how they redirected user to a target site. In the <a href="#wp-hardening">second part</a> you will find how to make your WP installation more secure.</p>
+<h2 id="attack-result">Post-mortem of the attack</h2>
+<p>Most likely the attack was automated and attackers used a known vulnerability in WordPress to inject a piece of obfuscated PHP code into <code>footer.php</code> file of the theme. The obfuscation was made by shifting ASCII codes by 1 position, gzipping it and encoding the result with base64:</p>
+<p><script src="https://gist.github.com/anatolykazantsev/7607cf6c91f6346f50be.js"></script></p>
+<p>De-obfuscated code (the code styled by us for readability):</p>
+<p><script src="https://gist.github.com/anatolykazantsev/1c8c475ee66e503e19f6.js"></script></p>
+<p>By default this code adds a piece of JS code into the footer which adds an overlap with a button to hide the original content of the page. Clicking on the overlap or its button re-requests the current page with <code>pagerd_</code> query parameter which triggers a redirection to the target site in the injected PHP code. But it does nothing like that if the WP page is requested by Google or some other site crawler.</p>
+<p>The script also remembers users which were redirected by setting a cookie in their browsers.</p>
+<p>The obfuscated PHP code also allows attackers to check and update the target site using specially crafted requests to WP.</p>
+<p>URL of the target site was stored in a text file with a random name (<code>.SIc7CYwgY</code> in our case) in the root directory of WP or in <code>/var/tmp/</code> directory and was also obfuscated (XOR + base64)</p>
+<h2 id="wp-hardening">Tightening WordPress security for static sites</h2>
+<p>The content of these sites is updated so infrequently that they can be treated as static sites. A prudent thing would be to convert them to static HTML pages, but there was no time or budget for that. We upgraded WP to the latest version and did following 2 steps to make it more secure:</p>
+<p><strong>Tightening file system access rights for WP</strong> is described at https://codex.wordpress.org/Hardening_WordPress#File_Permissions . That page has other useful recommendations for making WP more secure.</p>
+<p>We also prepared a simple shell script based on those instructions to automate the task. This script should be run as root so that file ownership changes can be set correctly.</p>
+<p><script src="https://gist.github.com/anatolykazantsev/39b85ccaf3b88b846215.js"></script></p>
+<p><strong>NOTE</strong>: some 3rd party extensions may require write access to some directories to function correctly. Please, check documentation for the plug-ins you&#8217;re using before making file system changes.</p>
+<p>Locking the DB is done manually by running the following SQL commands in the WP database. Make sure you have sufficient rights to execute grant and revoke instructions in MySQL.</p>
+<p><script src="https://gist.github.com/anatolykazantsev/4a9a85f206f9e749a360.js"></script></p>
+<p>Replace the placeholders in the script with actual data:</p>
+<p>* &#8211; the database name of your WP instance<br />
+* &#8211; the database user of your WP instance</p>
+<p>These commands basically reset any access rights for WP database user and then give it minimal rights required for WP site functioning. Also in the 3rd line we allow full access for the table used by W3 Total Cache plug-in.</p>
+<p>Run following SQL instructions to unlock WP database (see <code>wp-config.php</code> in the root of the WP site):</p>
+<p><script src="https://gist.github.com/anatolykazantsev/70009b2aace75835fc40.js"></script></p>
+<h2>Lessons learned</h2>
+<ol>
+<li>Anything that can be hacked will be hacked</li>
+<li>Plugins with write access to the file system add cost</li>
+<li>It&#8217;s cheaper and easier to have WordPress to auto-update itself</li>
+</ol>
+<p>And the best piece of advice is to convert your CMS site into a static HTML site if you don&#8217;t update the contents often. We hear that <a target="_blank" href="http://jekyllrb.com/">Jekyll</a> is painful to set up, but once up and running you can save your WP as HTML5 and upload to the web server for hosting.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/hardening-wordpress-installation/">Post-mortem of a WordPress hack</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Magento Security Update &#8211; SUPEE-6285</title>
+		<link>http://mventory.com/articles/magento-security-update-supee-6285/</link>
+		<pubDate>Fri, 23 Oct 2015 01:25:01 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[productivity]]></category>
+		<category><![CDATA[s3cdn]]></category>
+		<category><![CDATA[security]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3228</guid>
+		<description><![CDATA[<p><a href="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285.png"><img class="alignleft size-medium wp-image-3229" src="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-460x365.png" alt="SUPEE-6285" width="460" height="365" srcset="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-460x365.png 460w, http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-640x507.png 640w, http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285.png 815w" sizes="(max-width: 460px) 100vw, 460px" /></a>Magento security update: heads up
+<p>Magento released a flurry of security &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/magento-security-update-supee-6285/">Magento Security Update &#8211; SUPEE-6285</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2><a href="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285.png"><img class="alignleft size-medium wp-image-3229" src="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-460x365.png" alt="SUPEE-6285" width="460" height="365" srcset="http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-460x365.png 460w, http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285-640x507.png 640w, http://mventory.com/wp-content/uploads/2015/10/SUPEE-6285.png 815w" sizes="(max-width: 460px) 100vw, 460px" /></a>Magento security update: heads up</h2>
+<p>Magento released a flurry of security advice about the upcoming patches. The vulnerabilities are not new, but it appears there are still issued to fix.</p>
+<p>In a stark contrast with the previous practice of springing patches on the community Magento released an <a target="_blank" href="https://info2.magento.com/rs/318-XBX-392/images/SUPEE-6788-Technical%20Details.pdf?mkt_tok=3RkMMJWWfF9wsRolv6TJZKXonjHpfsX66u8qXK%2B3lMI%2F0ER3fOvrPUfGjI4CScBgI%2BSLDwEYGJlv6SgFSbHNMbhiwrgOUhM%3D">advisory about the upcoming changes</a>. The changes are quite fundamental. We expect a huge number of extensions to be affected. It&#8217;s time to act.</p>
+<h2>mVentory extensions updates</h2>
+<h4>TradeMe extension:</h4>
+<ul>
+<li>Admin tab interface</li>
+<li>Category matching interface</li>
+<li>Account authorisation</li>
+<li>Downloading CSV file</li>
+</ul>
+<h4>API / Android app:</h4>
+<ul>
+<li>Bulk edit actions</li>
+<li>Create/remove access of customer account</li>
+<li>Category matching interface</li>
+<li>Downloading files from Magento system configuration pages</li>
+</ul>
+<p>The app itself isn&#8217;t affected.</p>
+<h4>Front end editor:</h4>
+<ul>
+<li>Probably opening CMS page editor from the front end</li>
+</ul>
+<h4>S3CDN &#8211; image uploader to S3:</h4>
+<ul>
+<li>Uploading placeholders</li>
+</ul>
+<h2>Update schedule</h2>
+<p>We are working on TradeMe and API extensions right now and should have ready within 48 hours from now.</p>
+<p>The Front End Toolbar should be ready by Tue, 27 Oct.</p>
+<p>Our S3CDN extension will be pulled from <a target="_blank" href="http://www.magentocommerce.com/magento-connect/aws-s3-cdn-for-product-images.html">Magento Connect</a> and remain available on <a target="_blank" href="https://github.com/mVentory/MVentory_S3CDN">GitHub</a> only. We are unlikely to patch it until we actually need to install it somewhere new.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/magento-security-update-supee-6285/">Magento Security Update &#8211; SUPEE-6285</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:19:50 by W3 Total Cache -->

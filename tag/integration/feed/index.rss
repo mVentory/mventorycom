@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>integration &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/tag/integration/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>10 reasons why your Magento integration is custom</title>
+		<link>http://mventory.com/articles/10-reasons-why-your-magento-integration-is-custom/</link>
+		<pubDate>Sat, 27 Feb 2016 23:21:26 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[integration]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=4131</guid>
+		<description><![CDATA[<p>We do a lot of Magento integration work to connect to inventory, PoS and stock control systems. Most of them are capable of outputting a well structured CSV or XML &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/10-reasons-why-your-magento-integration-is-custom/">10 reasons why your Magento integration is custom</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>We do a lot of Magento integration work to connect to inventory, PoS and stock control systems. Most of them are capable of outputting a well structured CSV or XML file that can, in theory, be imported into Magento. It seems like a simple task &#8211; just use <a href="https://sourceforge.net/projects/magmi/">Magmi</a> or one of many <a href="https://www.magentocommerce.com/magento-connect/catalogsearch/result/?q=csv+import&amp;pl=0" target="_blank">commercial CSV import extensions</a>. If it&#8217;s that straight forward, why do we have to write custom code for almost every Magento integration?</p>
+<p><strong>Here is a short list of some of our recent Magento data import quirks that required custom programming.</strong></p>
+<h3>1. File naming</h3>
+<p>The inventory system exported the CSV files into the same folder regardless of how they were produced. Anyone using the inventory system may generate a CSV file for their own needs with a different set of data and the importer needs to be smart enough to ignore that.</p>
+<blockquote><p>An inventory control system called <a target="_blank" href="http://www.fastbase.co.nz/">FastBase</a> exports files with the same name during the day. The only way to tell them apart is to check the file creation / modification date. It may not be 100% reliable either if someone opened and saved the file before it was uploaded to Magento.</p></blockquote>
+<h3>2. Old files get re-submitted</h3>
+<p>Depending on how the connection with Magento is configured it is possible for some outdated files to be sent to Magento again. The importer will process them and overwrite the correct data in Magento with the outdated data from the files. It can be prevented by checking file date and comparing it to the previous CSV file.</p>
+<blockquote><p>Outdated CSV files were uploaded to Magento when the customer did some maintenance work at the inventory system end or just copied files around. It was happening often enough for us to build protection in our Magento CSV importer.</p></blockquote>
+<h3>3. Prices are not rounded</h3>
+<p>There is no one right way to display prices. Some merchants prefer $199.95 while others like to round the number to $200. Inventory systems often use &#8220;float&#8221; data type for prices making them few cents off. The inventory system corrects for it in the code, but not when in the exported data.</p>
+<blockquote><p><a target="_blank" href="http://www.kudos.co.nz/page/point-of-sale.aspx">Counter Intelligence PoS</a> system by <a target="_blank" href="http://www.kudos.co.nz/">Kudos</a> used by a clothing retailer would output $199.94 for some products when the price was actually $200. We had to correct this rounding error in the importer.</p></blockquote>
+<h3>4. Multiple columns for prices</h3>
+<p>Merchants doing retail and wholesale have different ways of separating retail and wholesale prices. Some do it via a discount field, some have two different price fields. It all gets confusing if both methods are used in the same CSV export.</p>
+<blockquote><p>A CSV export file had only prices for electronic gadgets at the retail price in one column and only trade prices for all other products in the other. To complicate things further one column had taxes included and the other didn&#8217;t.</p></blockquote>
+<h3>5. Decimal quantities for per-item products</h3>
+<p>A popular accounting and retail management system called <a target="_blank" href="http://myob.com.au/">MyOB</a> doesn&#8217;t have a flag to restrict quantities to integer values, so you may end up with something like 1.95 motorcycles in stock.</p>
+<blockquote><p>A tiles and flooring warehouse had many tiles listed with decimal quantities like 0.0009 or 1.95. No one could explain how those numbers ended up in the database. We had to correct for these errors in our <strong>MyOB to Magento integration</strong>, but only for some product categories because it is OK to have 10.5m of lino.</p></blockquote>
+<h3>6. This column is not what you think!</h3>
+<p>Retailers face their own difficulties dealing with limitations of their stock control systems. Sometimes the way they use them in unconventional ways or the system may be so flexible that there is simply no conventional way.</p>
+<blockquote><p>A clothing retailer was putting Cost into Special Price field and if the product did go on sale they would change the Special Price field to the sale price and tick some other flag to indicate it was actually on sale. The flag was never exported into the CSV. They decided they don&#8217;t want to have a sale price on the website anyway, so the problem went away.</p></blockquote>
+<h3>7. Parsing text to populate Magento attributes</h3>
+<p>Sometimes the product name, code or SKU in the stock control system contain valuable information that need to be imported into one of Magento attributes. For example a supplier code, garment size or color can be part of the product name.</p>
+<blockquote><p><a target="_blank" href="http://orionsoftware.co.nz">Orion</a>, a car and motorcycle dealership system doesn&#8217;t allow any custom fields. All useful information about the product was entered into the name in a cryptic, but quite systematic way. We had to extract size, brand and the actual product name using text parsing and matching patterns inside our <a href="/product-management-app/">inventory control app</a>.</p></blockquote>
+<h3>8. Product description formatting</h3>
+<p>Magento allows short and long product descriptions to contain HTML. Even if all they have is plain text it should be a nicely formatted text. Our Mageto integrations convert * into bullets where they are used as bullets, wrap paragraphs of text into &lt;p&gt; tags and make links clickable &lt;a&gt; tags.</p>
+<blockquote><p>A custom built inventory control system used both: \n for a new line and the actual new line ASCII code. Some products had ASCII, others had \n. We had to cater for both.</p></blockquote>
+<h3>9. Linking products to images</h3>
+<p>Stock control or PoS systems don&#8217;t usually store images. Even if they do, they are downsized or not exported. Merchants have to store images as files in folders using naming conventions to tell which image belongs to which product or style. It is quite arbitrary and often unreliable.</p>
+<blockquote><p>One customer used file names like P17383b.jpg and P17383b_1.jpg where P17383b is the SKU of the product and _1 is the number of the image in the sequence. Another customer had file names starting with the SKU followed by the description of the image and parts of the product name, e.g. AO86_HOLLYWOOD_SEP_FLAT_NOCOL.jpg</p></blockquote>
+<h3>10. Image replacement</h3>
+<p>Images are usually replaced by removing an old file and adding a new one with a different file name. Changing the file name makes it easier to track the changes.</p>
+<blockquote><p>A dealership management system exports all motorcycles in a single batch every time, including the image files. The contents of the files have to be compared to the contents of the files on Magento because even the date gets overwritten every time an export file is created. We got away with just comparing the file lengths.</p></blockquote>
+<h2>A 90% universal Magento importer</h2>
+<p>Our Magento CSV import module is quite universal and easily configurable in most cases. It is the seemingly small part that needs tweaking, but it still may take many hours of software engineers time to make changes. And it&#8217;s OK, because <strong>we don&#8217;t like to tell merchants how to run their business &#8211; we adapt our solution to how they do it</strong>.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/10-reasons-why-your-magento-integration-is-custom/">10 reasons why your Magento integration is custom</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:19:47 by W3 Total Cache -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>release notes &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/tag/release-notes/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Product loading API update: v.1.6.0</title>
+		<link>http://mventory.com/articles/product-loading-api-update-v-1-6-0/</link>
+		<pubDate>Mon, 08 Feb 2016 23:35:45 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[release notes]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3978</guid>
+		<description><![CDATA[<p>Just a quick plug to announce a new release of the product loading API extension on <a href="https://www.magentocommerce.com/magento-connect/mobile-pos-inventory-barcode-scanning-photos-and-more-on-android.html" target="_blank">Magento Connect</a></p>
+<p> What&#8217;s new: Bug fixes and refactoring Image Review moved into &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/product-loading-api-update-v-1-6-0/">Product loading API update: v.1.6.0</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Just a quick plug to announce a new release of the product loading API extension on <a href="https://www.magentocommerce.com/magento-connect/mobile-pos-inventory-barcode-scanning-photos-and-more-on-android.html" target="_blank">Magento Connect</a></p>
+<h3>What&#8217;s new:</h3>
+<ul>
+<li>Bug fixes and refactoring</li>
+<li>Image Review moved into separate extension</li>
+<li>Compatibility with SUPEE-6788</li>
+<li>Allow category matching based on yes/no attributes</li>
+<li>Allow multiple category matching rules</li>
+</ul>
+<h3>Background Genie</h3>
+<p>Image review part of API is now a separate extension called <a target="_blank" href="/photo-background-remover/">Background Genie</a>.</p>
+<p>We are working on making a Magento Connect listing for it. In the meantime, you can download it from <a target="_blank" href="https://github.com/mVentory/MVentory_BackgroundGenie">https://github.com/mVentory/MVentory_BackgroundGenie</a>. The name suggest background removal as it&#8217;s main function, but it can be used for any <a target="_blank" href="/photo-background-remover/">image editing with Magento</a>.</p>
+<h3>Category matching</h3>
+<p>Automated category matching is an optional feature that can save a lot of time on setting product categories.</p>
+<p>It saves time on setting categories for products by creating rules and applying them every time a product is created or edited.<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lpFj7PyBwi0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>We will take it out into a separate extension, but for now it remains part of API extension.</p>
+<p>The main change is that the rules can now be evaluated all the way to the end of the rules list regardless of the previous matches.</p>
+<p>Call us if you need help upgrading and remapping your existing rules.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/product-loading-api-update-v-1-6-0/">Product loading API update: v.1.6.0</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:19:52 by W3 Total Cache -->

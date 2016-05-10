@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>advertising &#8211; mVentory</title>
+	<atom:link href="http://mventory.com/tag/advertising/feed/" rel="self" type="application/rss+xml" />
+	<link>http://mventory.com</link>
+	<description>Enterprise E-Commerce for Small Businesses</description>
+	<lastBuildDate>Fri, 08 Apr 2016 05:15:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>TradeMe Category Listings &#8211; is it worth paying for images?</title>
+		<link>http://mventory.com/articles/trademe-category-images/</link>
+		<pubDate>Tue, 06 Oct 2015 01:37:02 +0000</pubDate>
+		<dc:creator><![CDATA[max]]></dc:creator>
+				<category><![CDATA[E-commerce Blog]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[TradeMe]]></category>
+
+		<guid isPermaLink="false">http://mventory.com/?p=3205</guid>
+		<description><![CDATA[<p>TradeMe charges some categories an extra 55c for displaying product images in search and category views. Is it worth paying? We ran a small scale experiment.</p>
+<p> Brief History of TradeMe &#8230;</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trademe-category-images/">TradeMe Category Listings &#8211; is it worth paying for images?</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>TradeMe charges some categories an extra 55c for displaying product images in search and category views. Is it worth paying? We ran a small scale experiment.</p>
+<h2>Brief History of TradeMe Category Fees</h2>
+<p><img class="alignleft wp-image-3209" src="http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees-640x640.jpg" alt="brief-history-of-trade-me-fees" width="164" height="164" srcset="http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees-135x135.jpg 135w, http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees-460x460.jpg 460w, http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees-640x640.jpg 640w, http://mventory.com/wp-content/uploads/2015/10/brief-history-of-trade-me-fees.jpg 800w" sizes="(max-width: 164px) 100vw, 164px" />Most General Goods categories on TradeMe get free category listings now. When they started it was always the case, then it was an extra fee, then they probably realised that they were shooting themselves in the foot by not letting buyers see the products.</p>
+<p>If you are a regular TradeMe user you have probably noticed that it&#8217;s just too much hassle to click on every listing just to see what it is.</p>
+<p>The change back to free category listings started about a year ago, one category at a time. There were no public announcements or blog posts on the matter. They just turned them on one a time.</p>
+<h2>Test TradeMe Category</h2>
+<p><a href="http://www.trademe.co.nz/motors/motorbikes/helmets-clothing-footwear/jacket-pant-sets"><img class="size-large wp-image-3206 alignright" src="http://mventory.com/wp-content/uploads/2015/10/trademe-category-images-640x444.png" alt="trademe-category-images" width="460" height="319" srcset="http://mventory.com/wp-content/uploads/2015/10/trademe-category-images-460x319.png 460w, http://mventory.com/wp-content/uploads/2015/10/trademe-category-images-640x444.png 640w, http://mventory.com/wp-content/uploads/2015/10/trademe-category-images.png 814w" sizes="(max-width: 460px) 100vw, 460px" /></a><br />
+We picked <a target="_blank" href="http://www.trademe.co.nz/motors/motorbikes/helmets-clothing-footwear">Motorbikes Clothing and Apparel</a> as our test category. It is one of the remaining categories where TradeMe charges 55c per category photo. One of our good customers is using it actively without Magento/TradeMe connector, so it was an easy test.</p>
+<p>Listing configuration was updated every day to alternate between two modes: with and without category images. In fact, switching over was as simple as changing one column in the spreadsheet from 1 to 0 and back to 1.</p>
+<h2>Category Images Test Results</h2>
+<p>We had more data for no image listings, which theoretically skewed the results, but after re-running it on a smaller scale we got the same distribution, so here it is:</p>
+<table>
+<tbody>
+<tr>
+<td></td>
+<td>with category images</td>
+<td>without category images</td>
+</tr>
+<tr>
+<td>Listed:</td>
+<td style="text-align: right;">76</td>
+<td style="text-align: right;">416</td>
+</tr>
+<tr>
+<td>Total views:</td>
+<td style="text-align: right;">1712</td>
+<td style="text-align: right;">8153</td>
+</tr>
+<tr>
+<td>Average views per product:</td>
+<td style="text-align: right;">22.53</td>
+<td style="text-align: right;">19.55</td>
+</tr>
+<tr>
+<td>Cost per listing*:</td>
+<td style="text-align: right;">65c</td>
+<td style="text-align: right;">10c</td>
+</tr>
+<tr>
+<td>Cost per view:</td>
+<td style="text-align: right;">$0.029</td>
+<td style="text-align: right;">$0.0051</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: right;">*  &#8211; <em>cost per listing is based on 10c for high volume listings and 55c for the category image</em></p>
+<p><strong>Products with category images got only 15% more views and cost 5.66 times more.</strong></p>
+<p>If we ran the other 416 products with category images it would cost $270 vs $42 without.</p>
+<h2>Conclusion</h2>
+<p>It is not worth paying the extra 55c fee for category images in categories where the search starts with the specification of the product, not a vague concept.</p>
+<p>For example, a dress is a very visual item. It is hard to describe using just 2-3 words in a search box.</p>
+<p>Something like a helmet or motorcycle gloves can be found using the brand, make or size.</p>
+<p>Don&#8217;t take this as gospel. Try both options and see the difference for your type of products.</p>
+<p>The post <a rel="nofollow" href="http://mventory.com/articles/trademe-category-images/">TradeMe Category Listings &#8211; is it worth paying for images?</a> appeared first on <a rel="nofollow" href="http://mventory.com">mVentory</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: mventory.com @ 2016-04-28 16:20:15 by W3 Total Cache -->
